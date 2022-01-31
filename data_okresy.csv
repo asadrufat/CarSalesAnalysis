@@ -1,0 +1,7150 @@
+,Okres
+0,Hlavní město Praha
+1,Hlavní město Praha
+2,Hlavní město Praha
+3,Hlavní město Praha
+4,Kladno
+5,NA
+6,NA
+7,NA
+8,NA
+9,NA
+10,Svitavy
+11,Česká Lípa
+12,NA
+13,NA
+14,Písek
+15,NA
+16,Karlovy Vary
+17,Liberec
+18,Hlavní město Praha
+19,Hlavní město Praha
+20,Hlavní město Praha
+21,Plzeň-město
+22,"Domažlice
+ Jindřichův Hradec"
+23,"Domažlice
+ Jindřichův Hradec"
+24,Frýdek-Místek
+25,Frýdek-Místek
+26,Frýdek-Místek
+27,Hlavní město Praha
+28,"Rychnov nad Kněžnou
+          Strakonice"
+29,"Rychnov nad Kněžnou
+          Strakonice"
+30,"Rychnov nad Kněžnou
+          Strakonice"
+31,"Rychnov nad Kněžnou
+          Strakonice"
+32,"Rychnov nad Kněžnou
+          Strakonice"
+33,"Rychnov nad Kněžnou
+          Strakonice"
+34,Most
+35,NA
+36,NA
+37,NA
+38,"Blansko
+ Benešov"
+39,"Blansko
+ Benešov"
+40,"Blansko
+ Benešov"
+41,"Blansko
+ Benešov"
+42,Hlavní město Praha
+43,Hlavní město Praha
+44,Hlavní město Praha
+45,Třebíč
+46,NA
+47,NA
+48,Vsetín
+49,Hlavní město Praha
+50,Hlavní město Praha
+51,Hlavní město Praha
+52,NA
+53,České Budějovice
+54,Tábor
+55,Tábor
+56,Tábor
+57,Tábor
+58,Hlavní město Praha
+59,Hlavní město Praha
+60,Hlavní město Praha
+61,"Chrudim
+  Kladno"
+62,"Chrudim
+  Kladno"
+63,"Chrudim
+  Kladno"
+64,"Chrudim
+  Kladno"
+65,"Chrudim
+  Kladno"
+66,"České Budějovice
+         Rokycany"
+67,Brno-město
+68,Brno-město
+69,Most
+70,Most
+71,NA
+72,NA
+73,NA
+74,NA
+75,NA
+76,Ústí nad Orlicí
+77,Ústí nad Orlicí
+78,Most
+79,Most
+80,Most
+81,Most
+82,Most
+83,Most
+84,Most
+85,Most
+86,Most
+87,Most
+88,Most
+89,Most
+90,Most
+91,Most
+92,Most
+93,Most
+94,Most
+95,Most
+96,Most
+97,Frýdek-Místek
+98,Frýdek-Místek
+99,Tábor
+100,NA
+101,NA
+102,Teplice
+103,Teplice
+104,Pelhřimov
+105,Pelhřimov
+106,Pelhřimov
+107,Pelhřimov
+108,Pelhřimov
+109,Pelhřimov
+110,Kutná Hora
+111,Kutná Hora
+112,Jičín
+113,Jičín
+114,Hlavní město Praha
+115,Hlavní město Praha
+116,Hlavní město Praha
+117,Pelhřimov
+118,Pelhřimov
+119,Ústí nad Orlicí
+120,Ústí nad Orlicí
+121,NA
+122,NA
+123,NA
+124,NA
+125,Plzeň-město
+126,Plzeň-město
+127,Plzeň-město
+128,NA
+129,NA
+130,Hradec Králové
+131,Hradec Králové
+132,Hradec Králové
+133,Plzeň-město
+134,Plzeň-město
+135,NA
+136,NA
+137,Pardubice
+138,Třebíč
+139,NA
+140,České Budějovice
+141,Chomutov
+142,Chomutov
+143,Praha-východ
+144,Hlavní město Praha
+145,Hlavní město Praha
+146,Hlavní město Praha
+147,NA
+148,NA
+149,NA
+150,NA
+151,NA
+152,NA
+153,NA
+154,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+155,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+156,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+157,Trutnov
+158,Trutnov
+159,Náchod
+160,Náchod
+161,Most
+162,NA
+163,NA
+164,NA
+165,NA
+166,NA
+167,Ústí nad Orlicí
+168,NA
+169,NA
+170,Most
+171,Hlavní město Praha
+172,Hlavní město Praha
+173,Hlavní město Praha
+174,Hlavní město Praha
+175,NA
+176,NA
+177,NA
+178,NA
+179,NA
+180,NA
+181,NA
+182,NA
+183,Brno-město
+184,Brno-město
+185,Brno-město
+186,Brno-město
+187,Brno-město
+188,Brno-město
+189,Brno-město
+190,Brno-město
+191,Brno-město
+192,Brno-město
+193,Brno-město
+194,Brno-město
+195,Brno-město
+196,Brno-město
+197,NA
+198,NA
+199,"Blansko
+ Benešov"
+200,"Blansko
+ Benešov"
+201,Nový Jičín
+202,Nový Jičín
+203,NA
+204,Jičín
+205,NA
+206,Znojmo
+207,Chomutov
+208,Chomutov
+209,Chomutov
+210,Chomutov
+211,Chomutov
+212,Chomutov
+213,Chomutov
+214,Chomutov
+215,Chomutov
+216,Chomutov
+217,"Brno-venkov
+ Praha-východ"
+218,Pardubice
+219,Pardubice
+220,Cheb
+221,Hlavní město Praha
+222,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+223,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+224,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+225,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+226,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+227,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+228,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+229,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+230,NA
+231,NA
+232,Hlavní město Praha
+233,Hlavní město Praha
+234,Hlavní město Praha
+235,Hlavní město Praha
+236,Hlavní město Praha
+237,Hlavní město Praha
+238,Hlavní město Praha
+239,Hlavní město Praha
+240,Hlavní město Praha
+241,"České Budějovice
+      Brno-venkov"
+242,"České Budějovice
+      Brno-venkov"
+243,"České Budějovice
+      Brno-venkov"
+244,Brno-město
+245,Brno-město
+246,Brno-město
+247,NA
+248,NA
+249,Náchod
+250,Náchod
+251,Strakonice
+252,Strakonice
+253,NA
+254,Hlavní město Praha
+255,České Budějovice
+256,NA
+257,NA
+258,Svitavy
+259,Ústí nad Orlicí
+260,NA
+261,NA
+262,Frýdek-Místek
+263,NA
+264,NA
+265,NA
+266,NA
+267,Plzeň-město
+268,Hlavní město Praha
+269,Prostějov
+270,Prostějov
+271,Prostějov
+272,Hlavní město Praha
+273,Hlavní město Praha
+274,Brno-město
+275,NA
+276,České Budějovice
+277,Plzeň-město
+278,Plzeň-město
+279,NA
+280,NA
+281,Mladá Boleslav
+282,Mladá Boleslav
+283,Žďár nad Sázavou
+284,Žďár nad Sázavou
+285,Louny
+286,Zlín
+287,České Budějovice
+288,Frýdek-Místek
+289,Frýdek-Místek
+290,Frýdek-Místek
+291,Frýdek-Místek
+292,Hlavní město Praha
+293,Hlavní město Praha
+294,Hlavní město Praha
+295,Hlavní město Praha
+296,Hlavní město Praha
+297,Hlavní město Praha
+298,"Rychnov nad Kněžnou
+          Strakonice"
+299,"Rychnov nad Kněžnou
+          Strakonice"
+300,"Rychnov nad Kněžnou
+          Strakonice"
+301,Náchod
+302,Náchod
+303,Plzeň-město
+304,Žďár nad Sázavou
+305,Žďár nad Sázavou
+306,Žďár nad Sázavou
+307,Žďár nad Sázavou
+308,"Blansko
+ Benešov"
+309,Hlavní město Praha
+310,Hlavní město Praha
+311,Hlavní město Praha
+312,Třebíč
+313,Třebíč
+314,Třebíč
+315,Třebíč
+316,Třebíč
+317,Třebíč
+318,Třebíč
+319,Třebíč
+320,Rychnov nad Kněžnou
+321,Cheb
+322,Cheb
+323,Cheb
+324,Cheb
+325,Cheb
+326,Cheb
+327,Kutná Hora
+328,Kutná Hora
+329,Kutná Hora
+330,Kutná Hora
+331,Kutná Hora
+332,Kutná Hora
+333,Kutná Hora
+334,Kutná Hora
+335,Kutná Hora
+336,Kutná Hora
+337,Kutná Hora
+338,Kutná Hora
+339,Chrudim
+340,Chrudim
+341,Chrudim
+342,NA
+343,NA
+344,NA
+345,NA
+346,Ostrava-město
+347,Plzeň-město
+348,Plzeň-město
+349,České Budějovice
+350,NA
+351,Hlavní město Praha
+352,Hlavní město Praha
+353,České Budějovice
+354,Tábor
+355,Tábor
+356,Tábor
+357,Tábor
+358,Tábor
+359,Tábor
+360,Hradec Králové
+361,Hlavní město Praha
+362,Brno-město
+363,Mělník
+364,NA
+365,Most
+366,"Plzeň-jih
+ Pelhřimov"
+367,Kladno
+368,Hlavní město Praha
+369,Hlavní město Praha
+370,NA
+371,Pelhřimov
+372,Jičín
+373,Hlavní město Praha
+374,Ústí nad Orlicí
+375,NA
+376,Plzeň-město
+377,NA
+378,Svitavy
+379,Svitavy
+380,Svitavy
+381,Svitavy
+382,NA
+383,NA
+384,"Chrudim
+ Hodonín
+ Blansko"
+385,Znojmo
+386,"Chrudim
+ Hodonín
+ Blansko"
+387,Chrudim
+388,NA
+389,NA
+390,NA
+391,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+392,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+393,Most
+394,NA
+395,NA
+396,NA
+397,NA
+398,NA
+399,Most
+400,Most
+401,Most
+402,Ostrava-město
+403,Hlavní město Praha
+404,Hlavní město Praha
+405,Hlavní město Praha
+406,NA
+407,NA
+408,NA
+409,NA
+410,Brno-město
+411,NA
+412,Nový Jičín
+413,Třebíč
+414,Litoměřice
+415,Jičín
+416,NA
+417,NA
+418,NA
+419,NA
+420,Chomutov
+421,Pardubice
+422,Hlavní město Praha
+423,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+424,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+425,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+426,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+427,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+428,Sokolov
+429,"Blansko
+ Benešov"
+430,Hlavní město Praha
+431,Hlavní město Praha
+432,Hlavní město Praha
+433,Kladno
+434,Brno-město
+435,Brno-město
+436,Brno-město
+437,NA
+438,NA
+439,NA
+440,NA
+441,NA
+442,NA
+443,NA
+444,Hlavní město Praha
+445,Hlavní město Praha
+446,Hlavní město Praha
+447,Hlavní město Praha
+448,Hlavní město Praha
+449,Hlavní město Praha
+450,Hlavní město Praha
+451,Hlavní město Praha
+452,Hlavní město Praha
+453,Hlavní město Praha
+454,Kladno
+455,Karlovy Vary
+456,Karlovy Vary
+457,Znojmo
+458,NA
+459,NA
+460,NA
+461,NA
+462,NA
+463,Plzeň-město
+464,Karlovy Vary
+465,Liberec
+466,NA
+467,Plzeň-město
+468,Plzeň-město
+469,Plzeň-město
+470,Plzeň-město
+471,Plzeň-město
+472,NA
+473,NA
+474,NA
+475,NA
+476,NA
+477,NA
+478,NA
+479,NA
+480,Mladá Boleslav
+481,Žďár nad Sázavou
+482,Žďár nad Sázavou
+483,Žďár nad Sázavou
+484,Žďár nad Sázavou
+485,Náchod
+486,Louny
+487,Louny
+488,Louny
+489,Louny
+490,České Budějovice
+491,České Budějovice
+492,Hlavní město Praha
+493,Hlavní město Praha
+494,Hlavní město Praha
+495,Hlavní město Praha
+496,"Rychnov nad Kněžnou
+          Strakonice"
+497,Most
+498,Náchod
+499,"Blansko
+ Benešov"
+500,Hlavní město Praha
+501,Hlavní město Praha
+502,Hlavní město Praha
+503,Hlavní město Praha
+504,Hlavní město Praha
+505,Hlavní město Praha
+506,Hlavní město Praha
+507,Hlavní město Praha
+508,"Chrudim
+  Kladno"
+509,"Chrudim
+  Kladno"
+510,"Chrudim
+  Kladno"
+511,"Chrudim
+  Kladno"
+512,"České Budějovice
+         Rokycany"
+513,Brno-město
+514,NA
+515,NA
+516,Ústí nad Orlicí
+517,Ústí nad Orlicí
+518,Ústí nad Orlicí
+519,Ústí nad Orlicí
+520,Ústí nad Orlicí
+521,Ústí nad Orlicí
+522,Frýdek-Místek
+523,"Plzeň-jih
+ Pelhřimov"
+524,NA
+525,NA
+526,NA
+527,Pelhřimov
+528,Pelhřimov
+529,Pelhřimov
+530,Jihlava
+531,Jičín
+532,Jičín
+533,Jičín
+534,Brno-město
+535,Pelhřimov
+536,NA
+537,Ústí nad Orlicí
+538,Ústí nad Orlicí
+539,Plzeň-město
+540,NA
+541,Hradec Králové
+542,Nymburk
+543,Plzeň-město
+544,NA
+545,NA
+546,Pardubice
+547,Třebíč
+548,NA
+549,České Budějovice
+550,České Budějovice
+551,Znojmo
+552,Chomutov
+553,"Chrudim
+ Hodonín
+ Blansko"
+554,Cheb
+555,Cheb
+556,Pelhřimov
+557,Hlavní město Praha
+558,Hlavní město Praha
+559,Hlavní město Praha
+560,Hlavní město Praha
+561,Hlavní město Praha
+562,Hlavní město Praha
+563,Hlavní město Praha
+564,NA
+565,NA
+566,NA
+567,NA
+568,NA
+569,NA
+570,NA
+571,NA
+572,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+573,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+574,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+575,Náchod
+576,Náchod
+577,Náchod
+578,Náchod
+579,Most
+580,Most
+581,Most
+582,Most
+583,NA
+584,NA
+585,NA
+586,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+587,Kladno
+588,Semily
+589,Semily
+590,NA
+591,NA
+592,NA
+593,NA
+594,NA
+595,Opava
+596,Opava
+597,NA
+598,Brno-město
+599,Hlavní město Praha
+600,NA
+601,NA
+602,NA
+603,NA
+604,NA
+605,Plzeň-město
+606,Plzeň-město
+607,NA
+608,NA
+609,Nový Jičín
+610,Nový Jičín
+611,Třebíč
+612,Třebíč
+613,Litoměřice
+614,Jičín
+615,Jičín
+616,Jičín
+617,NA
+618,NA
+619,Znojmo
+620,Chomutov
+621,Chomutov
+622,Chomutov
+623,"Brno-venkov
+ Praha-východ"
+624,Frýdek-Místek
+625,Cheb
+626,Hlavní město Praha
+627,Hlavní město Praha
+628,NA
+629,Sokolov
+630,"Blansko
+ Benešov"
+631,"Blansko
+ Benešov"
+632,"Blansko
+ Benešov"
+633,Hlavní město Praha
+634,Karviná
+635,Hlavní město Praha
+636,Hlavní město Praha
+637,Hlavní město Praha
+638,Hlavní město Praha
+639,Hlavní město Praha
+640,Hlavní město Praha
+641,Kladno
+642,Brno-město
+643,Brno-město
+644,Brno-město
+645,NA
+646,NA
+647,NA
+648,NA
+649,NA
+650,Náchod
+651,Náchod
+652,Náchod
+653,NA
+654,NA
+655,Strakonice
+656,Strakonice
+657,Strakonice
+658,Strakonice
+659,NA
+660,NA
+661,NA
+662,Hlavní město Praha
+663,Hlavní město Praha
+664,Hlavní město Praha
+665,Hlavní město Praha
+666,Hlavní město Praha
+667,Hlavní město Praha
+668,Hlavní město Praha
+669,České Budějovice
+670,Kladno
+671,Kladno
+672,Karlovy Vary
+673,Karlovy Vary
+674,Karlovy Vary
+675,Karlovy Vary
+676,Karlovy Vary
+677,Karlovy Vary
+678,NA
+679,NA
+680,NA
+681,NA
+682,NA
+683,NA
+684,Ústí nad Orlicí
+685,Ústí nad Orlicí
+686,Česká Lípa
+687,Česká Lípa
+688,Plzeň-jih
+689,Ostrava-město
+690,NA
+691,Hradec Králové
+692,Hradec Králové
+693,NA
+694,NA
+695,NA
+696,NA
+697,NA
+698,Písek
+699,NA
+700,Karlovy Vary
+701,Hlavní město Praha
+702,Prostějov
+703,Prostějov
+704,"Jindřichův Hradec
+        Česká Lípa"
+705,"Jindřichův Hradec
+        Česká Lípa"
+706,"Jindřichův Hradec
+        Česká Lípa"
+707,Hlavní město Praha
+708,Hlavní město Praha
+709,NA
+710,NA
+711,NA
+712,NA
+713,NA
+714,Plzeň-město
+715,Plzeň-město
+716,Plzeň-město
+717,NA
+718,NA
+719,NA
+720,NA
+721,NA
+722,NA
+723,NA
+724,NA
+725,NA
+726,NA
+727,NA
+728,NA
+729,NA
+730,NA
+731,"Teplice
+ Břeclav"
+732,Louny
+733,Louny
+734,Zlín
+735,Rakovník
+736,"Přerov
+ Chrudim"
+737,České Budějovice
+738,Frýdek-Místek
+739,Frýdek-Místek
+740,Frýdek-Místek
+741,Frýdek-Místek
+742,Frýdek-Místek
+743,Frýdek-Místek
+744,Hlavní město Praha
+745,Hlavní město Praha
+746,"Rychnov nad Kněžnou
+          Strakonice"
+747,Most
+748,Uherské Hradiště
+749,Náchod
+750,Náchod
+751,Náchod
+752,Žďár nad Sázavou
+753,Žďár nad Sázavou
+754,Cheb
+755,Hlavní město Praha
+756,Brno-město
+757,Rychnov nad Kněžnou
+758,Cheb
+759,Cheb
+760,Cheb
+761,Kutná Hora
+762,Kladno
+763,Kladno
+764,NA
+765,NA
+766,NA
+767,NA
+768,NA
+769,NA
+770,Ostrava-město
+771,Plzeň-město
+772,Plzeň-město
+773,Plzeň-město
+774,Plzeň-město
+775,Blansko
+776,Blansko
+777,České Budějovice
+778,České Budějovice
+779,NA
+780,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+781,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+782,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+783,Hlavní město Praha
+784,Hlavní město Praha
+785,Hlavní město Praha
+786,Hlavní město Praha
+787,Hlavní město Praha
+788,NA
+789,Tábor
+790,Tábor
+791,Tábor
+792,Tábor
+793,Tábor
+794,Tábor
+795,Tábor
+796,Tábor
+797,Tábor
+798,Tábor
+799,Tábor
+800,Tábor
+801,Tábor
+802,Tábor
+803,Tábor
+804,Tábor
+805,Tábor
+806,Tábor
+807,Tábor
+808,Tábor
+809,"Chrudim
+  Kladno"
+810,"Chrudim
+  Kladno"
+811,Brno-město
+812,Brno-město
+813,Brno-město
+814,Brno-město
+815,Brno-město
+816,Most
+817,Mělník
+818,NA
+819,Most
+820,Most
+821,Frýdek-Místek
+822,Tábor
+823,Tábor
+824,"Plzeň-jih
+ Pelhřimov"
+825,NA
+826,Hlavní město Praha
+827,NA
+828,NA
+829,Pelhřimov
+830,Pelhřimov
+831,Jihlava
+832,Jičín
+833,Jičín
+834,Jičín
+835,NA
+836,Znojmo
+837,Znojmo
+838,Znojmo
+839,Znojmo
+840,Znojmo
+841,Znojmo
+842,Plzeň-město
+843,Plzeň-město
+844,Plzeň-město
+845,NA
+846,NA
+847,Plzeň-město
+848,NA
+849,NA
+850,NA
+851,České Budějovice
+852,Cheb
+853,Chomutov
+854,Chomutov
+855,Chomutov
+856,Chomutov
+857,"Chrudim
+ Hodonín
+ Blansko"
+858,Cheb
+859,Cheb
+860,Hlavní město Praha
+861,Hlavní město Praha
+862,Hlavní město Praha
+863,Hlavní město Praha
+864,NA
+865,NA
+866,NA
+867,NA
+868,NA
+869,NA
+870,NA
+871,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+872,Ústí nad Orlicí
+873,Ústí nad Orlicí
+874,Trutnov
+875,Trutnov
+876,Trutnov
+877,Náchod
+878,Náchod
+879,Náchod
+880,Náchod
+881,NA
+882,NA
+883,NA
+884,NA
+885,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+886,Kladno
+887,Ústí nad Orlicí
+888,Ústí nad Orlicí
+889,Semily
+890,NA
+891,NA
+892,Ostrava-město
+893,NA
+894,Svitavy
+895,Svitavy
+896,"Písek
+ České Budějovice"
+897,NA
+898,Hlavní město Praha
+899,Hlavní město Praha
+900,Hlavní město Praha
+901,NA
+902,NA
+903,NA
+904,NA
+905,NA
+906,NA
+907,Plzeň-město
+908,Plzeň-město
+909,Plzeň-město
+910,Plzeň-město
+911,Plzeň-město
+912,Brno-město
+913,Brno-město
+914,Brno-město
+915,NA
+916,"Blansko
+ Benešov"
+917,"Blansko
+ Benešov"
+918,"Blansko
+ Benešov"
+919,Nový Jičín
+920,Nový Jičín
+921,Třebíč
+922,Třebíč
+923,Třebíč
+924,Třebíč
+925,Třebíč
+926,Třebíč
+927,Třebíč
+928,Třebíč
+929,Třebíč
+930,Třebíč
+931,Třebíč
+932,Třebíč
+933,Litoměřice
+934,Litoměřice
+935,Litoměřice
+936,NA
+937,Jičín
+938,Jičín
+939,NA
+940,NA
+941,NA
+942,NA
+943,"Brno-venkov
+      Beroun"
+944,NA
+945,NA
+946,NA
+947,NA
+948,České Budějovice
+949,Znojmo
+950,Znojmo
+951,Znojmo
+952,Znojmo
+953,Znojmo
+954,Znojmo
+955,Chomutov
+956,Chomutov
+957,České Budějovice
+958,České Budějovice
+959,Pardubice
+960,Pardubice
+961,Frýdek-Místek
+962,Cheb
+963,Cheb
+964,Hlavní město Praha
+965,Hlavní město Praha
+966,NA
+967,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+968,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+969,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+970,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+971,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+972,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+973,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+974,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+975,"Blansko
+ Benešov"
+976,"Blansko
+ Benešov"
+977,"Blansko
+ Benešov"
+978,Hlavní město Praha
+979,Hlavní město Praha
+980,Hlavní město Praha
+981,Jičín
+982,Jičín
+983,Jičín
+984,Kladno
+985,"České Budějovice
+      Brno-venkov"
+986,"České Budějovice
+      Brno-venkov"
+987,"České Budějovice
+      Brno-venkov"
+988,"České Budějovice
+      Brno-venkov"
+989,"České Budějovice
+      Brno-venkov"
+990,Brno-město
+991,Brno-město
+992,Brno-město
+993,NA
+994,NA
+995,NA
+996,Náchod
+997,NA
+998,Strakonice
+999,Strakonice
+1000,NA
+1001,NA
+1002,NA
+1003,NA
+1004,NA
+1005,Hlavní město Praha
+1006,Hlavní město Praha
+1007,Svitavy
+1008,Svitavy
+1009,Svitavy
+1010,České Budějovice
+1011,Kladno
+1012,Karlovy Vary
+1013,Karlovy Vary
+1014,Karlovy Vary
+1015,Karlovy Vary
+1016,Karlovy Vary
+1017,Karlovy Vary
+1018,NA
+1019,NA
+1020,NA
+1021,NA
+1022,NA
+1023,NA
+1024,NA
+1025,NA
+1026,NA
+1027,Karviná
+1028,Karviná
+1029,Karviná
+1030,Svitavy
+1031,Svitavy
+1032,Svitavy
+1033,Ústí nad Orlicí
+1034,Ústí nad Orlicí
+1035,Ústí nad Orlicí
+1036,Znojmo
+1037,Znojmo
+1038,NA
+1039,Hradec Králové
+1040,Hradec Králové
+1041,Hradec Králové
+1042,NA
+1043,NA
+1044,NA
+1045,NA
+1046,NA
+1047,Plzeň-město
+1048,Plzeň-město
+1049,Karlovy Vary
+1050,Karlovy Vary
+1051,Karlovy Vary
+1052,Karlovy Vary
+1053,Karlovy Vary
+1054,Karlovy Vary
+1055,Karlovy Vary
+1056,Liberec
+1057,Liberec
+1058,Hlavní město Praha
+1059,Hlavní město Praha
+1060,Hlavní město Praha
+1061,Brno-město
+1062,Brno-město
+1063,NA
+1064,NA
+1065,Hlavní město Praha
+1066,Plzeň-město
+1067,Plzeň-město
+1068,Plzeň-město
+1069,Plzeň-město
+1070,Svitavy
+1071,NA
+1072,NA
+1073,NA
+1074,NA
+1075,NA
+1076,NA
+1077,NA
+1078,NA
+1079,NA
+1080,"Teplice
+ Břeclav"
+1081,"Teplice
+ Břeclav"
+1082,"Teplice
+ Břeclav"
+1083,Mladá Boleslav
+1084,Žďár nad Sázavou
+1085,Žďár nad Sázavou
+1086,Žďár nad Sázavou
+1087,Náchod
+1088,Louny
+1089,Louny
+1090,Louny
+1091,Louny
+1092,Louny
+1093,Louny
+1094,Zlín
+1095,Rakovník
+1096,"Přerov
+ Chrudim"
+1097,"Přerov
+ Chrudim"
+1098,České Budějovice
+1099,České Budějovice
+1100,Frýdek-Místek
+1101,Frýdek-Místek
+1102,Frýdek-Místek
+1103,Frýdek-Místek
+1104,Hlavní město Praha
+1105,"Rychnov nad Kněžnou
+          Strakonice"
+1106,Most
+1107,Most
+1108,Náchod
+1109,Žďár nad Sázavou
+1110,Žďár nad Sázavou
+1111,Žďár nad Sázavou
+1112,Žďár nad Sázavou
+1113,NA
+1114,Hlavní město Praha
+1115,Hlavní město Praha
+1116,Hlavní město Praha
+1117,Hlavní město Praha
+1118,Třebíč
+1119,Rychnov nad Kněžnou
+1120,Cheb
+1121,Cheb
+1122,Kutná Hora
+1123,Kutná Hora
+1124,Kutná Hora
+1125,Kutná Hora
+1126,Kutná Hora
+1127,Kutná Hora
+1128,Kutná Hora
+1129,Kutná Hora
+1130,Kutná Hora
+1131,Kutná Hora
+1132,Kutná Hora
+1133,Kutná Hora
+1134,Kutná Hora
+1135,Kutná Hora
+1136,Kutná Hora
+1137,Kutná Hora
+1138,Kutná Hora
+1139,Kutná Hora
+1140,Kutná Hora
+1141,Kutná Hora
+1142,Kutná Hora
+1143,Kutná Hora
+1144,Kutná Hora
+1145,Kutná Hora
+1146,Kutná Hora
+1147,Kutná Hora
+1148,Kutná Hora
+1149,Kutná Hora
+1150,Kutná Hora
+1151,Kutná Hora
+1152,Kutná Hora
+1153,Kutná Hora
+1154,Kutná Hora
+1155,Kutná Hora
+1156,Kutná Hora
+1157,Kutná Hora
+1158,Kutná Hora
+1159,Kutná Hora
+1160,Kutná Hora
+1161,Kutná Hora
+1162,Kutná Hora
+1163,Kutná Hora
+1164,Kutná Hora
+1165,Kutná Hora
+1166,Kutná Hora
+1167,Kutná Hora
+1168,Kutná Hora
+1169,Kutná Hora
+1170,Kutná Hora
+1171,Kutná Hora
+1172,Kutná Hora
+1173,Kutná Hora
+1174,Kutná Hora
+1175,Kutná Hora
+1176,Kutná Hora
+1177,Kutná Hora
+1178,Kutná Hora
+1179,Kutná Hora
+1180,Kutná Hora
+1181,Kutná Hora
+1182,Kutná Hora
+1183,Kutná Hora
+1184,Kutná Hora
+1185,Kutná Hora
+1186,Kutná Hora
+1187,Kutná Hora
+1188,Kladno
+1189,Chrudim
+1190,Chrudim
+1191,Chrudim
+1192,NA
+1193,NA
+1194,Ostrava-město
+1195,Karlovy Vary
+1196,Plzeň-město
+1197,Plzeň-město
+1198,Plzeň-město
+1199,Plzeň-město
+1200,Plzeň-město
+1201,Plzeň-město
+1202,České Budějovice
+1203,České Budějovice
+1204,Hlavní město Praha
+1205,NA
+1206,Tábor
+1207,Tábor
+1208,Tábor
+1209,Tábor
+1210,Tábor
+1211,Tábor
+1212,Tábor
+1213,Tábor
+1214,Tábor
+1215,Tábor
+1216,Tábor
+1217,Tábor
+1218,Tábor
+1219,Tábor
+1220,Tábor
+1221,Tábor
+1222,Hradec Králové
+1223,Hlavní město Praha
+1224,Brno-město
+1225,Most
+1226,Most
+1227,Mělník
+1228,Mělník
+1229,Mělník
+1230,NA
+1231,NA
+1232,NA
+1233,NA
+1234,NA
+1235,NA
+1236,NA
+1237,NA
+1238,Chrudim
+1239,Frýdek-Místek
+1240,Frýdek-Místek
+1241,"Plzeň-jih
+ Pelhřimov"
+1242,"Plzeň-jih
+ Pelhřimov"
+1243,"Plzeň-jih
+ Pelhřimov"
+1244,NA
+1245,NA
+1246,Hlavní město Praha
+1247,NA
+1248,NA
+1249,NA
+1250,Pelhřimov
+1251,Pelhřimov
+1252,Jičín
+1253,Jičín
+1254,Jičín
+1255,Hlavní město Praha
+1256,Pelhřimov
+1257,NA
+1258,NA
+1259,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+1260,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+1261,Ústí nad Orlicí
+1262,Ústí nad Orlicí
+1263,Ústí nad Orlicí
+1264,Znojmo
+1265,Plzeň-město
+1266,Plzeň-město
+1267,Plzeň-město
+1268,Plzeň-město
+1269,NA
+1270,Plzeň-město
+1271,Hradec Králové
+1272,Hradec Králové
+1273,Nymburk
+1274,Hlavní město Praha
+1275,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+1276,NA
+1277,NA
+1278,Liberec
+1279,Hlavní město Praha
+1280,NA
+1281,České Budějovice
+1282,Plzeň-město
+1283,Plzeň-město
+1284,Hlavní město Praha
+1285,"Teplice
+ Břeclav"
+1286,"Teplice
+ Břeclav"
+1287,"Teplice
+ Břeclav"
+1288,Mladá Boleslav
+1289,Mladá Boleslav
+1290,Žďár nad Sázavou
+1291,Louny
+1292,Louny
+1293,Rakovník
+1294,Rakovník
+1295,Frýdek-Místek
+1296,Frýdek-Místek
+1297,Frýdek-Místek
+1298,Frýdek-Místek
+1299,Frýdek-Místek
+1300,Plzeň-město
+1301,"Blansko
+ Benešov"
+1302,"Blansko
+ Benešov"
+1303,"Blansko
+ Benešov"
+1304,Hlavní město Praha
+1305,Hlavní město Praha
+1306,Chrudim
+1307,NA
+1308,České Budějovice
+1309,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+1310,Hlavní město Praha
+1311,Tábor
+1312,Tábor
+1313,Hradec Králové
+1314,Hlavní město Praha
+1315,"Chrudim
+  Kladno"
+1316,"Chrudim
+  Kladno"
+1317,"České Budějovice
+         Rokycany"
+1318,"České Budějovice
+         Rokycany"
+1319,Most
+1320,NA
+1321,NA
+1322,NA
+1323,NA
+1324,Ústí nad Orlicí
+1325,Chrudim
+1326,Most
+1327,Tábor
+1328,NA
+1329,NA
+1330,Kladno
+1331,Kladno
+1332,Hlavní město Praha
+1333,NA
+1334,NA
+1335,NA
+1336,NA
+1337,NA
+1338,NA
+1339,NA
+1340,NA
+1341,NA
+1342,Pelhřimov
+1343,Pelhřimov
+1344,Pelhřimov
+1345,Pelhřimov
+1346,Pelhřimov
+1347,Pelhřimov
+1348,Pelhřimov
+1349,Jihlava
+1350,Jičín
+1351,Jičín
+1352,Jičín
+1353,Hlavní město Praha
+1354,Pelhřimov
+1355,NA
+1356,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+1357,Ústí nad Orlicí
+1358,Znojmo
+1359,Znojmo
+1360,Znojmo
+1361,Znojmo
+1362,Plzeň-město
+1363,Plzeň-město
+1364,Plzeň-město
+1365,Plzeň-město
+1366,Plzeň-město
+1367,Plzeň-město
+1368,Plzeň-město
+1369,Hradec Králové
+1370,NA
+1371,NA
+1372,Plzeň-město
+1373,NA
+1374,NA
+1375,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+1376,Pardubice
+1377,NA
+1378,Mladá Boleslav
+1379,NA
+1380,NA
+1381,Cheb
+1382,"Chrudim
+ Hodonín
+ Blansko"
+1383,"Chrudim
+ Hodonín
+ Blansko"
+1384,Chrudim
+1385,Chrudim
+1386,Cheb
+1387,Hlavní město Praha
+1388,Hlavní město Praha
+1389,Hlavní město Praha
+1390,Hlavní město Praha
+1391,NA
+1392,NA
+1393,NA
+1394,NA
+1395,NA
+1396,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+1397,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+1398,Náchod
+1399,Most
+1400,NA
+1401,NA
+1402,NA
+1403,NA
+1404,NA
+1405,NA
+1406,NA
+1407,NA
+1408,NA
+1409,NA
+1410,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+1411,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+1412,Kladno
+1413,Semily
+1414,Semily
+1415,NA
+1416,NA
+1417,NA
+1418,NA
+1419,Most
+1420,Pardubice
+1421,NA
+1422,Hlavní město Praha
+1423,Hlavní město Praha
+1424,Hlavní město Praha
+1425,Hlavní město Praha
+1426,Hlavní město Praha
+1427,Hlavní město Praha
+1428,Hlavní město Praha
+1429,Hlavní město Praha
+1430,Hlavní město Praha
+1431,Hlavní město Praha
+1432,NA
+1433,NA
+1434,NA
+1435,NA
+1436,NA
+1437,NA
+1438,NA
+1439,NA
+1440,NA
+1441,Plzeň-město
+1442,Plzeň-město
+1443,Plzeň-město
+1444,Brno-město
+1445,Brno-město
+1446,Brno-město
+1447,Brno-město
+1448,Brno-město
+1449,Brno-město
+1450,Brno-město
+1451,NA
+1452,NA
+1453,NA
+1454,NA
+1455,NA
+1456,"Blansko
+ Benešov"
+1457,Třebíč
+1458,Třebíč
+1459,Třebíč
+1460,Třebíč
+1461,Třebíč
+1462,Třebíč
+1463,Třebíč
+1464,Třebíč
+1465,Třebíč
+1466,Třebíč
+1467,Třebíč
+1468,Třebíč
+1469,Třebíč
+1470,Třebíč
+1471,Třebíč
+1472,NA
+1473,Jičín
+1474,NA
+1475,NA
+1476,NA
+1477,NA
+1478,NA
+1479,NA
+1480,NA
+1481,"Brno-venkov
+      Beroun"
+1482,NA
+1483,NA
+1484,České Budějovice
+1485,České Budějovice
+1486,Znojmo
+1487,Chomutov
+1488,Chomutov
+1489,Chomutov
+1490,Hlavní město Praha
+1491,České Budějovice
+1492,České Budějovice
+1493,Pardubice
+1494,Pardubice
+1495,Frýdek-Místek
+1496,Frýdek-Místek
+1497,Hlavní město Praha
+1498,Hlavní město Praha
+1499,Hlavní město Praha
+1500,Hlavní město Praha
+1501,Hlavní město Praha
+1502,Hlavní město Praha
+1503,Hlavní město Praha
+1504,Hlavní město Praha
+1505,Hlavní město Praha
+1506,NA
+1507,Sokolov
+1508,Sokolov
+1509,Sokolov
+1510,"Blansko
+ Benešov"
+1511,"Blansko
+ Benešov"
+1512,"Blansko
+ Benešov"
+1513,"Blansko
+ Benešov"
+1514,"Blansko
+ Benešov"
+1515,"Blansko
+ Benešov"
+1516,Hlavní město Praha
+1517,Hlavní město Praha
+1518,Hlavní město Praha
+1519,Hlavní město Praha
+1520,Hlavní město Praha
+1521,Hlavní město Praha
+1522,Hlavní město Praha
+1523,Kladno
+1524,Kladno
+1525,"České Budějovice
+      Brno-venkov"
+1526,Brno-město
+1527,Brno-město
+1528,Brno-město
+1529,Brno-město
+1530,Brno-město
+1531,NA
+1532,Náchod
+1533,NA
+1534,Strakonice
+1535,Strakonice
+1536,Svitavy
+1537,Svitavy
+1538,Svitavy
+1539,Svitavy
+1540,Svitavy
+1541,Kladno
+1542,Karlovy Vary
+1543,NA
+1544,NA
+1545,Karviná
+1546,Svitavy
+1547,Česká Lípa
+1548,Česká Lípa
+1549,NA
+1550,NA
+1551,NA
+1552,NA
+1553,NA
+1554,NA
+1555,Hradec Králové
+1556,Hradec Králové
+1557,NA
+1558,NA
+1559,NA
+1560,NA
+1561,NA
+1562,Plzeň-město
+1563,Plzeň-město
+1564,Plzeň-město
+1565,Plzeň-město
+1566,Karlovy Vary
+1567,Karlovy Vary
+1568,Karlovy Vary
+1569,Hlavní město Praha
+1570,Liberec
+1571,Liberec
+1572,Liberec
+1573,Liberec
+1574,"Jindřichův Hradec
+        Česká Lípa"
+1575,"Jindřichův Hradec
+        Česká Lípa"
+1576,"Jindřichův Hradec
+        Česká Lípa"
+1577,"Jindřichův Hradec
+        Česká Lípa"
+1578,"Jindřichův Hradec
+        Česká Lípa"
+1579,"Jindřichův Hradec
+        Česká Lípa"
+1580,"Jindřichův Hradec
+        Česká Lípa"
+1581,"Jindřichův Hradec
+        Česká Lípa"
+1582,Hlavní město Praha
+1583,Hlavní město Praha
+1584,Hlavní město Praha
+1585,Pelhřimov
+1586,Brno-město
+1587,Brno-město
+1588,Brno-město
+1589,NA
+1590,NA
+1591,NA
+1592,NA
+1593,NA
+1594,Plzeň-město
+1595,Plzeň-město
+1596,NA
+1597,NA
+1598,NA
+1599,NA
+1600,NA
+1601,"Teplice
+ Břeclav"
+1602,"Teplice
+ Břeclav"
+1603,Žďár nad Sázavou
+1604,Žďár nad Sázavou
+1605,Žďár nad Sázavou
+1606,Náchod
+1607,Náchod
+1608,Louny
+1609,Louny
+1610,Louny
+1611,Louny
+1612,Louny
+1613,Louny
+1614,Louny
+1615,Frýdek-Místek
+1616,Hlavní město Praha
+1617,Hlavní město Praha
+1618,Hlavní město Praha
+1619,Hlavní město Praha
+1620,"Rychnov nad Kněžnou
+          Strakonice"
+1621,Most
+1622,Náchod
+1623,Plzeň-město
+1624,Plzeň-město
+1625,"Blansko
+ Benešov"
+1626,"Blansko
+ Benešov"
+1627,Hlavní město Praha
+1628,Cheb
+1629,Cheb
+1630,Hlavní město Praha
+1631,Třebíč
+1632,Cheb
+1633,Cheb
+1634,Cheb
+1635,Cheb
+1636,Cheb
+1637,Kutná Hora
+1638,Kutná Hora
+1639,Kutná Hora
+1640,Kladno
+1641,Kladno
+1642,Kladno
+1643,Kladno
+1644,Chrudim
+1645,Chrudim
+1646,Chrudim
+1647,Chrudim
+1648,NA
+1649,NA
+1650,NA
+1651,NA
+1652,Ostrava-město
+1653,Plzeň-město
+1654,Plzeň-město
+1655,Plzeň-město
+1656,Plzeň-město
+1657,České Budějovice
+1658,České Budějovice
+1659,České Budějovice
+1660,České Budějovice
+1661,Vsetín
+1662,Hlavní město Praha
+1663,NA
+1664,Tábor
+1665,Tábor
+1666,Tábor
+1667,Tábor
+1668,Tábor
+1669,Tábor
+1670,Tábor
+1671,Tábor
+1672,Tábor
+1673,Tábor
+1674,Tábor
+1675,Hradec Králové
+1676,Hradec Králové
+1677,Hradec Králové
+1678,Hlavní město Praha
+1679,Hlavní město Praha
+1680,Hlavní město Praha
+1681,Hlavní město Praha
+1682,Brno-město
+1683,Brno-město
+1684,Brno-město
+1685,Hlavní město Praha
+1686,NA
+1687,NA
+1688,NA
+1689,NA
+1690,NA
+1691,NA
+1692,Pelhřimov
+1693,Pelhřimov
+1694,Jihlava
+1695,Jičín
+1696,Jičín
+1697,Jičín
+1698,NA
+1699,NA
+1700,NA
+1701,Plzeň-město
+1702,Plzeň-město
+1703,Plzeň-město
+1704,Plzeň-město
+1705,Hradec Králové
+1706,NA
+1707,Plzeň-město
+1708,Svitavy
+1709,NA
+1710,"Zlín
+ Brno-venkov"
+1711,"Zlín
+ Brno-venkov"
+1712,"Zlín
+ Brno-venkov"
+1713,"Zlín
+ Brno-venkov"
+1714,"Zlín
+ Brno-venkov"
+1715,Pardubice
+1716,"Chrudim
+ Hodonín
+ Blansko"
+1717,"Chrudim
+ Hodonín
+ Blansko"
+1718,NA
+1719,Mladá Boleslav
+1720,České Budějovice
+1721,NA
+1722,NA
+1723,NA
+1724,Cheb
+1725,Cheb
+1726,Chomutov
+1727,Chomutov
+1728,Praha-východ
+1729,"Jičín
+ Mladá Boleslav"
+1730,Chrudim
+1731,Hlavní město Praha
+1732,Hlavní město Praha
+1733,Hlavní město Praha
+1734,NA
+1735,NA
+1736,NA
+1737,NA
+1738,NA
+1739,NA
+1740,NA
+1741,NA
+1742,NA
+1743,NA
+1744,NA
+1745,Náchod
+1746,NA
+1747,NA
+1748,NA
+1749,NA
+1750,NA
+1751,NA
+1752,NA
+1753,Semily
+1754,NA
+1755,NA
+1756,NA
+1757,NA
+1758,NA
+1759,Chomutov
+1760,NA
+1761,Svitavy
+1762,Hlavní město Praha
+1763,Hlavní město Praha
+1764,Hlavní město Praha
+1765,Hlavní město Praha
+1766,Hlavní město Praha
+1767,Hlavní město Praha
+1768,NA
+1769,NA
+1770,NA
+1771,NA
+1772,NA
+1773,NA
+1774,NA
+1775,NA
+1776,NA
+1777,NA
+1778,NA
+1779,NA
+1780,NA
+1781,NA
+1782,NA
+1783,Plzeň-město
+1784,Plzeň-město
+1785,Plzeň-město
+1786,Plzeň-město
+1787,Plzeň-město
+1788,Brno-město
+1789,Brno-město
+1790,Brno-město
+1791,Brno-město
+1792,Brno-město
+1793,Brno-město
+1794,Brno-město
+1795,Brno-město
+1796,Brno-město
+1797,Brno-město
+1798,Brno-město
+1799,Brno-město
+1800,NA
+1801,NA
+1802,NA
+1803,NA
+1804,NA
+1805,NA
+1806,NA
+1807,"Blansko
+ Benešov"
+1808,Nový Jičín
+1809,Třebíč
+1810,Litoměřice
+1811,Jičín
+1812,NA
+1813,NA
+1814,"Brno-venkov
+      Beroun"
+1815,NA
+1816,Chomutov
+1817,Chomutov
+1818,Chomutov
+1819,Chomutov
+1820,"Brno-venkov
+ Praha-východ"
+1821,NA
+1822,NA
+1823,NA
+1824,NA
+1825,České Budějovice
+1826,Frýdek-Místek
+1827,Hlavní město Praha
+1828,NA
+1829,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+1830,NA
+1831,Hlavní město Praha
+1832,Jičín
+1833,Brno-město
+1834,Brno-město
+1835,Brno-město
+1836,Brno-město
+1837,NA
+1838,NA
+1839,Náchod
+1840,Náchod
+1841,Náchod
+1842,Náchod
+1843,NA
+1844,NA
+1845,NA
+1846,Strakonice
+1847,Strakonice
+1848,Strakonice
+1849,Strakonice
+1850,Svitavy
+1851,Svitavy
+1852,České Budějovice
+1853,České Budějovice
+1854,České Budějovice
+1855,České Budějovice
+1856,Sokolov
+1857,Karlovy Vary
+1858,Karlovy Vary
+1859,Karlovy Vary
+1860,Karlovy Vary
+1861,Karlovy Vary
+1862,Karlovy Vary
+1863,Karlovy Vary
+1864,Karlovy Vary
+1865,NA
+1866,NA
+1867,NA
+1868,NA
+1869,NA
+1870,NA
+1871,NA
+1872,NA
+1873,Karviná
+1874,Svitavy
+1875,Ústí nad Orlicí
+1876,Ústí nad Orlicí
+1877,Ústí nad Orlicí
+1878,NA
+1879,NA
+1880,Plzeň-město
+1881,Plzeň-město
+1882,Plzeň-město
+1883,Hlavní město Praha
+1884,Pelhřimov
+1885,Brno-město
+1886,NA
+1887,NA
+1888,NA
+1889,NA
+1890,Hlavní město Praha
+1891,Hlavní město Praha
+1892,NA
+1893,NA
+1894,"Teplice
+ Břeclav"
+1895,"Teplice
+ Břeclav"
+1896,"Teplice
+ Břeclav"
+1897,"Teplice
+ Břeclav"
+1898,Mladá Boleslav
+1899,Mladá Boleslav
+1900,Mladá Boleslav
+1901,Žďár nad Sázavou
+1902,Žďár nad Sázavou
+1903,Žďár nad Sázavou
+1904,Žďár nad Sázavou
+1905,Žďár nad Sázavou
+1906,Žďár nad Sázavou
+1907,Žďár nad Sázavou
+1908,Louny
+1909,Louny
+1910,Rakovník
+1911,České Budějovice
+1912,Frýdek-Místek
+1913,Frýdek-Místek
+1914,Frýdek-Místek
+1915,Hlavní město Praha
+1916,Hlavní město Praha
+1917,"Rychnov nad Kněžnou
+          Strakonice"
+1918,"Rychnov nad Kněžnou
+          Strakonice"
+1919,"Rychnov nad Kněžnou
+          Strakonice"
+1920,Uherské Hradiště
+1921,Uherské Hradiště
+1922,Uherské Hradiště
+1923,Uherské Hradiště
+1924,Uherské Hradiště
+1925,Uherské Hradiště
+1926,NA
+1927,Žďár nad Sázavou
+1928,Žďár nad Sázavou
+1929,Cheb
+1930,Cheb
+1931,Třebíč
+1932,Třebíč
+1933,Rychnov nad Kněžnou
+1934,Rychnov nad Kněžnou
+1935,Rychnov nad Kněžnou
+1936,Rychnov nad Kněžnou
+1937,Kladno
+1938,NA
+1939,NA
+1940,NA
+1941,Plzeň-město
+1942,Plzeň-město
+1943,Plzeň-město
+1944,České Budějovice
+1945,České Budějovice
+1946,Hlavní město Praha
+1947,NA
+1948,NA
+1949,Tábor
+1950,Tábor
+1951,Hlavní město Praha
+1952,Hlavní město Praha
+1953,Hlavní město Praha
+1954,Hlavní město Praha
+1955,Mělník
+1956,Tábor
+1957,Tábor
+1958,Tábor
+1959,Tábor
+1960,NA
+1961,NA
+1962,NA
+1963,Chrudim
+1964,Chrudim
+1965,Chrudim
+1966,Most
+1967,Most
+1968,Most
+1969,Frýdek-Místek
+1970,Frýdek-Místek
+1971,Frýdek-Místek
+1972,Tábor
+1973,Tábor
+1974,Tábor
+1975,"Plzeň-jih
+ Pelhřimov"
+1976,NA
+1977,NA
+1978,Kladno
+1979,Kladno
+1980,Kladno
+1981,Teplice
+1982,Teplice
+1983,Pelhřimov
+1984,Pelhřimov
+1985,Pelhřimov
+1986,Pelhřimov
+1987,Pelhřimov
+1988,Kutná Hora
+1989,Jihlava
+1990,Jihlava
+1991,Ústí nad Orlicí
+1992,Ústí nad Orlicí
+1993,Znojmo
+1994,Plzeň-město
+1995,Plzeň-město
+1996,Plzeň-město
+1997,NA
+1998,NA
+1999,Hlavní město Praha
+2000,NA
+2001,NA
+2002,NA
+2003,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+2004,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+2005,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+2006,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+2007,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+2008,"Zlín
+ Brno-venkov"
+2009,"Zlín
+ Brno-venkov"
+2010,"Zlín
+ Brno-venkov"
+2011,"Zlín
+ Brno-venkov"
+2012,"Zlín
+ Brno-venkov"
+2013,"Zlín
+ Brno-venkov"
+2014,"Chrudim
+ Hodonín
+ Blansko"
+2015,"Chrudim
+ Hodonín
+ Blansko"
+2016,NA
+2017,Mladá Boleslav
+2018,Mladá Boleslav
+2019,České Budějovice
+2020,"Chrudim
+ Hodonín
+ Blansko"
+2021,"Chrudim
+ Hodonín
+ Blansko"
+2022,"Chrudim
+ Hodonín
+ Blansko"
+2023,"Chrudim
+ Hodonín
+ Blansko"
+2024,"Chrudim
+ Hodonín
+ Blansko"
+2025,Chrudim
+2026,Cheb
+2027,Cheb
+2028,Cheb
+2029,Hlavní město Praha
+2030,Hlavní město Praha
+2031,Hlavní město Praha
+2032,Hlavní město Praha
+2033,Hlavní město Praha
+2034,NA
+2035,NA
+2036,NA
+2037,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2038,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2039,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2040,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2041,Trutnov
+2042,Náchod
+2043,Náchod
+2044,Náchod
+2045,Náchod
+2046,Most
+2047,Most
+2048,NA
+2049,NA
+2050,NA
+2051,NA
+2052,NA
+2053,Ústí nad Orlicí
+2054,Semily
+2055,NA
+2056,NA
+2057,NA
+2058,NA
+2059,NA
+2060,NA
+2061,Most
+2062,NA
+2063,NA
+2064,NA
+2065,Brno-město
+2066,Hlavní město Praha
+2067,Hlavní město Praha
+2068,Hlavní město Praha
+2069,Hlavní město Praha
+2070,Hlavní město Praha
+2071,Hlavní město Praha
+2072,NA
+2073,NA
+2074,NA
+2075,NA
+2076,Plzeň-město
+2077,Plzeň-město
+2078,Plzeň-město
+2079,Brno-město
+2080,Brno-město
+2081,Brno-město
+2082,Třebíč
+2083,Třebíč
+2084,Jičín
+2085,Jičín
+2086,NA
+2087,NA
+2088,NA
+2089,NA
+2090,NA
+2091,NA
+2092,NA
+2093,České Budějovice
+2094,Znojmo
+2095,Znojmo
+2096,Znojmo
+2097,Znojmo
+2098,Chomutov
+2099,Chomutov
+2100,Chomutov
+2101,"Brno-venkov
+ Praha-východ"
+2102,"Brno-venkov
+ Praha-východ"
+2103,Pardubice
+2104,Pardubice
+2105,Hlavní město Praha
+2106,Hlavní město Praha
+2107,NA
+2108,Sokolov
+2109,Hlavní město Praha
+2110,Hlavní město Praha
+2111,Hlavní město Praha
+2112,Hlavní město Praha
+2113,Hlavní město Praha
+2114,Hlavní město Praha
+2115,"České Budějovice
+      Brno-venkov"
+2116,Brno-město
+2117,Brno-město
+2118,Brno-město
+2119,Brno-město
+2120,Brno-město
+2121,NA
+2122,NA
+2123,NA
+2124,Náchod
+2125,Náchod
+2126,Náchod
+2127,NA
+2128,NA
+2129,Strakonice
+2130,Svitavy
+2131,Svitavy
+2132,České Budějovice
+2133,"Nymburk
+      Náchod
+ Praha-západ"
+2134,Kladno
+2135,Svitavy
+2136,Česká Lípa
+2137,Znojmo
+2138,Znojmo
+2139,NA
+2140,NA
+2141,NA
+2142,Frýdek-Místek
+2143,Hradec Králové
+2144,Hradec Králové
+2145,Hradec Králové
+2146,Hradec Králové
+2147,Hradec Králové
+2148,Hradec Králové
+2149,Hradec Králové
+2150,NA
+2151,České Budějovice
+2152,NA
+2153,NA
+2154,NA
+2155,NA
+2156,NA
+2157,NA
+2158,Písek
+2159,NA
+2160,NA
+2161,NA
+2162,NA
+2163,NA
+2164,NA
+2165,Plzeň-město
+2166,Plzeň-město
+2167,Plzeň-město
+2168,Karlovy Vary
+2169,Karlovy Vary
+2170,Karlovy Vary
+2171,Karlovy Vary
+2172,Karlovy Vary
+2173,Karlovy Vary
+2174,Karlovy Vary
+2175,Karlovy Vary
+2176,Prostějov
+2177,"Jindřichův Hradec
+        Česká Lípa"
+2178,"Jindřichův Hradec
+        Česká Lípa"
+2179,"Jindřichův Hradec
+        Česká Lípa"
+2180,"Jindřichův Hradec
+        Česká Lípa"
+2181,"Jindřichův Hradec
+        Česká Lípa"
+2182,Hlavní město Praha
+2183,Hlavní město Praha
+2184,Hlavní město Praha
+2185,Hlavní město Praha
+2186,Hlavní město Praha
+2187,Hlavní město Praha
+2188,Hlavní město Praha
+2189,Hlavní město Praha
+2190,Hlavní město Praha
+2191,Hlavní město Praha
+2192,Hlavní město Praha
+2193,Brno-město
+2194,Brno-město
+2195,NA
+2196,NA
+2197,NA
+2198,NA
+2199,NA
+2200,České Budějovice
+2201,Hlavní město Praha
+2202,Plzeň-město
+2203,Plzeň-město
+2204,Plzeň-město
+2205,Plzeň-město
+2206,Hlavní město Praha
+2207,NA
+2208,NA
+2209,NA
+2210,"Teplice
+ Břeclav"
+2211,Mladá Boleslav
+2212,Mladá Boleslav
+2213,Žďár nad Sázavou
+2214,Žďár nad Sázavou
+2215,Žďár nad Sázavou
+2216,Žďár nad Sázavou
+2217,Náchod
+2218,Náchod
+2219,Náchod
+2220,Louny
+2221,Louny
+2222,Louny
+2223,Zlín
+2224,Zlín
+2225,Frýdek-Místek
+2226,Frýdek-Místek
+2227,Frýdek-Místek
+2228,Frýdek-Místek
+2229,Frýdek-Místek
+2230,Frýdek-Místek
+2231,Hlavní město Praha
+2232,Hlavní město Praha
+2233,Hlavní město Praha
+2234,Hlavní město Praha
+2235,Hlavní město Praha
+2236,Hlavní město Praha
+2237,"Rychnov nad Kněžnou
+          Strakonice"
+2238,"Rychnov nad Kněžnou
+          Strakonice"
+2239,Most
+2240,Most
+2241,Most
+2242,Most
+2243,Uherské Hradiště
+2244,Uherské Hradiště
+2245,Uherské Hradiště
+2246,Náchod
+2247,Plzeň-město
+2248,Žďár nad Sázavou
+2249,"Blansko
+ Benešov"
+2250,"Blansko
+ Benešov"
+2251,"Blansko
+ Benešov"
+2252,"Blansko
+ Benešov"
+2253,"Blansko
+ Benešov"
+2254,"Blansko
+ Benešov"
+2255,"Blansko
+ Benešov"
+2256,NA
+2257,Cheb
+2258,Cheb
+2259,Cheb
+2260,Cheb
+2261,Cheb
+2262,Cheb
+2263,Cheb
+2264,Hlavní město Praha
+2265,Hlavní město Praha
+2266,Hlavní město Praha
+2267,Třebíč
+2268,Rychnov nad Kněžnou
+2269,Rychnov nad Kněžnou
+2270,Rychnov nad Kněžnou
+2271,Rychnov nad Kněžnou
+2272,Rychnov nad Kněžnou
+2273,Rychnov nad Kněžnou
+2274,Rychnov nad Kněžnou
+2275,Rychnov nad Kněžnou
+2276,Rychnov nad Kněžnou
+2277,Cheb
+2278,Cheb
+2279,Cheb
+2280,Kutná Hora
+2281,Kutná Hora
+2282,Kladno
+2283,Chrudim
+2284,NA
+2285,NA
+2286,NA
+2287,NA
+2288,NA
+2289,NA
+2290,Ostrava-město
+2291,Ostrava-město
+2292,Ostrava-město
+2293,Ostrava-město
+2294,Ostrava-město
+2295,Ostrava-město
+2296,Ostrava-město
+2297,Ostrava-město
+2298,Plzeň-město
+2299,Plzeň-město
+2300,České Budějovice
+2301,České Budějovice
+2302,České Budějovice
+2303,České Budějovice
+2304,NA
+2305,NA
+2306,Vsetín
+2307,Hlavní město Praha
+2308,Hlavní město Praha
+2309,Hlavní město Praha
+2310,Hlavní město Praha
+2311,NA
+2312,NA
+2313,NA
+2314,České Budějovice
+2315,České Budějovice
+2316,Tábor
+2317,Tábor
+2318,Tábor
+2319,Tábor
+2320,Tábor
+2321,Tábor
+2322,Tábor
+2323,Tábor
+2324,Tábor
+2325,Tábor
+2326,Tábor
+2327,Tábor
+2328,Tábor
+2329,Tábor
+2330,Hradec Králové
+2331,Hlavní město Praha
+2332,Brno-město
+2333,Brno-město
+2334,Brno-město
+2335,Brno-město
+2336,Mělník
+2337,Mělník
+2338,Mělník
+2339,NA
+2340,NA
+2341,NA
+2342,NA
+2343,NA
+2344,NA
+2345,NA
+2346,NA
+2347,NA
+2348,Ústí nad Orlicí
+2349,NA
+2350,Most
+2351,Frýdek-Místek
+2352,"Plzeň-jih
+ Pelhřimov"
+2353,"Plzeň-jih
+ Pelhřimov"
+2354,NA
+2355,NA
+2356,NA
+2357,Kladno
+2358,Kladno
+2359,Kladno
+2360,NA
+2361,Hlavní město Praha
+2362,NA
+2363,NA
+2364,NA
+2365,Pelhřimov
+2366,Pelhřimov
+2367,Pelhřimov
+2368,"Jičín
+ Mladá Boleslav"
+2369,Hlavní město Praha
+2370,Pelhřimov
+2371,Ústí nad Orlicí
+2372,Ústí nad Orlicí
+2373,Plzeň-město
+2374,Plzeň-město
+2375,NA
+2376,NA
+2377,NA
+2378,Hradec Králové
+2379,Hradec Králové
+2380,Hradec Králové
+2381,Hradec Králové
+2382,Nymburk
+2383,Svitavy
+2384,Pardubice
+2385,"Zlín
+ Brno-venkov"
+2386,"Zlín
+ Brno-venkov"
+2387,Pardubice
+2388,Pardubice
+2389,Pardubice
+2390,Pardubice
+2391,Mladá Boleslav
+2392,České Budějovice
+2393,Hradec Králové
+2394,Cheb
+2395,Chomutov
+2396,Chomutov
+2397,Chomutov
+2398,Chomutov
+2399,Chomutov
+2400,"Jičín
+ Mladá Boleslav"
+2401,Chrudim
+2402,Cheb
+2403,Cheb
+2404,Cheb
+2405,Cheb
+2406,Cheb
+2407,Cheb
+2408,Cheb
+2409,Cheb
+2410,Hlavní město Praha
+2411,NA
+2412,NA
+2413,NA
+2414,NA
+2415,NA
+2416,NA
+2417,NA
+2418,NA
+2419,NA
+2420,NA
+2421,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2422,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2423,Trutnov
+2424,Trutnov
+2425,Trutnov
+2426,Trutnov
+2427,Trutnov
+2428,Trutnov
+2429,Trutnov
+2430,Trutnov
+2431,Trutnov
+2432,Trutnov
+2433,Trutnov
+2434,Trutnov
+2435,Trutnov
+2436,Trutnov
+2437,Most
+2438,NA
+2439,NA
+2440,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+2441,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+2442,Semily
+2443,Hlavní město Praha
+2444,Hlavní město Praha
+2445,Hlavní město Praha
+2446,Hlavní město Praha
+2447,Hlavní město Praha
+2448,Most
+2449,NA
+2450,Brno-město
+2451,Hlavní město Praha
+2452,NA
+2453,NA
+2454,NA
+2455,NA
+2456,Plzeň-město
+2457,Plzeň-město
+2458,Plzeň-město
+2459,Plzeň-město
+2460,Brno-město
+2461,Brno-město
+2462,Brno-město
+2463,NA
+2464,Třebíč
+2465,Třebíč
+2466,Kolín
+2467,Jičín
+2468,Jičín
+2469,NA
+2470,NA
+2471,NA
+2472,NA
+2473,Znojmo
+2474,Chomutov
+2475,Chomutov
+2476,Chomutov
+2477,Chomutov
+2478,Chomutov
+2479,Chomutov
+2480,"Brno-venkov
+ Praha-východ"
+2481,České Budějovice
+2482,České Budějovice
+2483,Pardubice
+2484,Pardubice
+2485,Pardubice
+2486,Pardubice
+2487,NA
+2488,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2489,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2490,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2491,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2492,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2493,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2494,NA
+2495,Hlavní město Praha
+2496,Hlavní město Praha
+2497,Hlavní město Praha
+2498,Hlavní město Praha
+2499,Hlavní město Praha
+2500,Hlavní město Praha
+2501,Hlavní město Praha
+2502,Hlavní město Praha
+2503,Kladno
+2504,"České Budějovice
+      Brno-venkov"
+2505,"České Budějovice
+      Brno-venkov"
+2506,"České Budějovice
+      Brno-venkov"
+2507,"České Budějovice
+      Brno-venkov"
+2508,Brno-město
+2509,Náchod
+2510,Náchod
+2511,Náchod
+2512,Náchod
+2513,Strakonice
+2514,Strakonice
+2515,Strakonice
+2516,Strakonice
+2517,NA
+2518,NA
+2519,NA
+2520,Hlavní město Praha
+2521,Karlovy Vary
+2522,NA
+2523,NA
+2524,NA
+2525,NA
+2526,NA
+2527,NA
+2528,NA
+2529,NA
+2530,NA
+2531,NA
+2532,Karviná
+2533,Ústí nad Orlicí
+2534,Ostrava-město
+2535,Hradec Králové
+2536,Hradec Králové
+2537,NA
+2538,NA
+2539,NA
+2540,NA
+2541,NA
+2542,NA
+2543,Karlovy Vary
+2544,Karlovy Vary
+2545,Hlavní město Praha
+2546,"Jindřichův Hradec
+        Česká Lípa"
+2547,Plzeň-město
+2548,Plzeň-město
+2549,Plzeň-město
+2550,NA
+2551,NA
+2552,NA
+2553,NA
+2554,Zlín
+2555,České Budějovice
+2556,Frýdek-Místek
+2557,Frýdek-Místek
+2558,Frýdek-Místek
+2559,Frýdek-Místek
+2560,Frýdek-Místek
+2561,Hlavní město Praha
+2562,Hlavní město Praha
+2563,Hlavní město Praha
+2564,"Rychnov nad Kněžnou
+          Strakonice"
+2565,"Rychnov nad Kněžnou
+          Strakonice"
+2566,Most
+2567,Náchod
+2568,NA
+2569,Žďár nad Sázavou
+2570,"Blansko
+ Benešov"
+2571,"Blansko
+ Benešov"
+2572,Hlavní město Praha
+2573,Třebíč
+2574,Třebíč
+2575,Třebíč
+2576,Třebíč
+2577,Třebíč
+2578,Třebíč
+2579,Cheb
+2580,Cheb
+2581,Kutná Hora
+2582,Chrudim
+2583,NA
+2584,Ostrava-město
+2585,Blansko
+2586,Blansko
+2587,Blansko
+2588,České Budějovice
+2589,České Budějovice
+2590,NA
+2591,NA
+2592,Vsetín
+2593,Hlavní město Praha
+2594,Tábor
+2595,Tábor
+2596,Tábor
+2597,Tábor
+2598,Hlavní město Praha
+2599,"Chrudim
+  Kladno"
+2600,Hlavní město Praha
+2601,Hlavní město Praha
+2602,Hlavní město Praha
+2603,Hlavní město Praha
+2604,"České Budějovice
+         Rokycany"
+2605,Brno-město
+2606,Mělník
+2607,"Jičín
+ Mladá Boleslav"
+2608,Jihlava
+2609,Jičín
+2610,Plzeň-město
+2611,Plzeň-město
+2612,Hradec Králové
+2613,Plzeň-město
+2614,Hlavní město Praha
+2615,Cheb
+2616,Chrudim
+2617,Hlavní město Praha
+2618,Hlavní město Praha
+2619,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2620,NA
+2621,NA
+2622,NA
+2623,Semily
+2624,NA
+2625,Svitavy
+2626,NA
+2627,NA
+2628,NA
+2629,NA
+2630,Brno-město
+2631,Jičín
+2632,NA
+2633,Karviná
+2634,Plzeň-jih
+2635,Hlavní město Praha
+2636,Plzeň-město
+2637,Mladá Boleslav
+2638,Louny
+2639,Louny
+2640,Frýdek-Místek
+2641,Frýdek-Místek
+2642,Frýdek-Místek
+2643,Frýdek-Místek
+2644,Náchod
+2645,NA
+2646,NA
+2647,NA
+2648,Cheb
+2649,Cheb
+2650,Cheb
+2651,Hlavní město Praha
+2652,Hlavní město Praha
+2653,Plzeň-město
+2654,České Budějovice
+2655,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+2656,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+2657,NA
+2658,Ústí nad Orlicí
+2659,Ústí nad Orlicí
+2660,Ústí nad Orlicí
+2661,Chrudim
+2662,Chrudim
+2663,Chrudim
+2664,Most
+2665,Frýdek-Místek
+2666,Tábor
+2667,Tábor
+2668,Tábor
+2669,"Plzeň-jih
+ Pelhřimov"
+2670,NA
+2671,NA
+2672,NA
+2673,NA
+2674,NA
+2675,Kladno
+2676,Kladno
+2677,Kladno
+2678,Hlavní město Praha
+2679,NA
+2680,Pelhřimov
+2681,Pelhřimov
+2682,Pelhřimov
+2683,Pelhřimov
+2684,Jihlava
+2685,Jihlava
+2686,Jičín
+2687,Jičín
+2688,Hlavní město Praha
+2689,Pelhřimov
+2690,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+2691,Ústí nad Orlicí
+2692,Ústí nad Orlicí
+2693,Ústí nad Orlicí
+2694,Ústí nad Orlicí
+2695,Ústí nad Orlicí
+2696,Ústí nad Orlicí
+2697,Znojmo
+2698,Znojmo
+2699,Znojmo
+2700,Znojmo
+2701,Znojmo
+2702,Znojmo
+2703,NA
+2704,Plzeň-město
+2705,Plzeň-město
+2706,Plzeň-město
+2707,Plzeň-město
+2708,Plzeň-město
+2709,Hradec Králové
+2710,Hradec Králové
+2711,Hradec Králové
+2712,Hradec Králové
+2713,Hradec Králové
+2714,NA
+2715,Plzeň-město
+2716,Plzeň-město
+2717,Plzeň-město
+2718,Plzeň-město
+2719,Hlavní město Praha
+2720,NA
+2721,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+2722,"Zlín
+ Brno-venkov"
+2723,"Zlín
+ Brno-venkov"
+2724,"Zlín
+ Brno-venkov"
+2725,"Zlín
+ Brno-venkov"
+2726,České Budějovice
+2727,České Budějovice
+2728,České Budějovice
+2729,České Budějovice
+2730,České Budějovice
+2731,České Budějovice
+2732,České Budějovice
+2733,České Budějovice
+2734,České Budějovice
+2735,České Budějovice
+2736,České Budějovice
+2737,Chomutov
+2738,"Chrudim
+ Hodonín
+ Blansko"
+2739,"Chrudim
+ Hodonín
+ Blansko"
+2740,Hlavní město Praha
+2741,Hlavní město Praha
+2742,Hlavní město Praha
+2743,Hlavní město Praha
+2744,Hlavní město Praha
+2745,Hlavní město Praha
+2746,Hlavní město Praha
+2747,Hlavní město Praha
+2748,Hlavní město Praha
+2749,NA
+2750,NA
+2751,NA
+2752,NA
+2753,NA
+2754,NA
+2755,NA
+2756,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2757,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2758,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2759,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+2760,Trutnov
+2761,Trutnov
+2762,Náchod
+2763,Náchod
+2764,Náchod
+2765,Náchod
+2766,Most
+2767,NA
+2768,NA
+2769,NA
+2770,NA
+2771,NA
+2772,Ústí nad Orlicí
+2773,Semily
+2774,Semily
+2775,Semily
+2776,Semily
+2777,Most
+2778,Ostrava-město
+2779,NA
+2780,Brno-město
+2781,NA
+2782,NA
+2783,NA
+2784,NA
+2785,NA
+2786,NA
+2787,NA
+2788,NA
+2789,NA
+2790,Plzeň-město
+2791,Brno-město
+2792,Brno-město
+2793,Brno-město
+2794,Brno-město
+2795,Brno-město
+2796,Brno-město
+2797,Brno-město
+2798,NA
+2799,NA
+2800,"Blansko
+ Benešov"
+2801,NA
+2802,Nový Jičín
+2803,Nový Jičín
+2804,Nový Jičín
+2805,Nový Jičín
+2806,Nový Jičín
+2807,Třebíč
+2808,Třebíč
+2809,Třebíč
+2810,Jičín
+2811,Jičín
+2812,Jičín
+2813,NA
+2814,NA
+2815,NA
+2816,NA
+2817,NA
+2818,NA
+2819,NA
+2820,"Brno-venkov
+      Beroun"
+2821,"Brno-venkov
+      Beroun"
+2822,"Brno-venkov
+      Beroun"
+2823,"Brno-venkov
+      Beroun"
+2824,Znojmo
+2825,Znojmo
+2826,Znojmo
+2827,"Brno-venkov
+ Praha-východ"
+2828,"Brno-venkov
+ Praha-východ"
+2829,"Brno-venkov
+ Praha-východ"
+2830,Pardubice
+2831,Pardubice
+2832,Pardubice
+2833,Pardubice
+2834,Frýdek-Místek
+2835,Cheb
+2836,Hlavní město Praha
+2837,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2838,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2839,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2840,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2841,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2842,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+2843,Sokolov
+2844,"Blansko
+ Benešov"
+2845,"Blansko
+ Benešov"
+2846,"Blansko
+ Benešov"
+2847,Hlavní město Praha
+2848,Hlavní město Praha
+2849,Hlavní město Praha
+2850,"České Budějovice
+      Brno-venkov"
+2851,"České Budějovice
+      Brno-venkov"
+2852,Brno-město
+2853,Brno-město
+2854,Brno-město
+2855,Brno-město
+2856,Brno-město
+2857,Brno-město
+2858,Brno-město
+2859,Brno-město
+2860,Brno-město
+2861,NA
+2862,NA
+2863,NA
+2864,NA
+2865,NA
+2866,NA
+2867,NA
+2868,NA
+2869,Náchod
+2870,Náchod
+2871,Náchod
+2872,Náchod
+2873,Náchod
+2874,Náchod
+2875,Náchod
+2876,NA
+2877,Strakonice
+2878,Strakonice
+2879,Strakonice
+2880,Strakonice
+2881,Strakonice
+2882,Strakonice
+2883,Strakonice
+2884,Strakonice
+2885,Strakonice
+2886,NA
+2887,NA
+2888,NA
+2889,NA
+2890,NA
+2891,NA
+2892,Hlavní město Praha
+2893,Hlavní město Praha
+2894,Kladno
+2895,Karlovy Vary
+2896,Karlovy Vary
+2897,Karlovy Vary
+2898,Karlovy Vary
+2899,NA
+2900,NA
+2901,Karviná
+2902,Svitavy
+2903,Svitavy
+2904,Svitavy
+2905,Svitavy
+2906,Svitavy
+2907,Svitavy
+2908,Svitavy
+2909,Ústí nad Orlicí
+2910,Ústí nad Orlicí
+2911,Ústí nad Orlicí
+2912,Česká Lípa
+2913,Česká Lípa
+2914,Česká Lípa
+2915,Znojmo
+2916,Znojmo
+2917,Znojmo
+2918,NA
+2919,NA
+2920,NA
+2921,NA
+2922,NA
+2923,Frýdek-Místek
+2924,Hradec Králové
+2925,Hradec Králové
+2926,Hradec Králové
+2927,NA
+2928,NA
+2929,NA
+2930,NA
+2931,NA
+2932,NA
+2933,NA
+2934,NA
+2935,NA
+2936,NA
+2937,NA
+2938,Písek
+2939,Písek
+2940,Písek
+2941,Písek
+2942,NA
+2943,Karlovy Vary
+2944,Karlovy Vary
+2945,Karlovy Vary
+2946,Karlovy Vary
+2947,Karlovy Vary
+2948,Karlovy Vary
+2949,Karlovy Vary
+2950,Prostějov
+2951,Prostějov
+2952,Prostějov
+2953,Liberec
+2954,"Jindřichův Hradec
+        Česká Lípa"
+2955,"Jindřichův Hradec
+        Česká Lípa"
+2956,"Jindřichův Hradec
+        Česká Lípa"
+2957,Hlavní město Praha
+2958,Hlavní město Praha
+2959,Hlavní město Praha
+2960,Hlavní město Praha
+2961,Hlavní město Praha
+2962,Hlavní město Praha
+2963,Hlavní město Praha
+2964,Brno-město
+2965,NA
+2966,NA
+2967,NA
+2968,NA
+2969,České Budějovice
+2970,Hlavní město Praha
+2971,Hlavní město Praha
+2972,Plzeň-město
+2973,Plzeň-město
+2974,Plzeň-město
+2975,Plzeň-město
+2976,NA
+2977,NA
+2978,NA
+2979,NA
+2980,"Domažlice
+ Jindřichův Hradec"
+2981,"Domažlice
+ Jindřichův Hradec"
+2982,"Domažlice
+ Jindřichův Hradec"
+2983,"Domažlice
+ Jindřichův Hradec"
+2984,"Domažlice
+ Jindřichův Hradec"
+2985,"Teplice
+ Břeclav"
+2986,Mladá Boleslav
+2987,Mladá Boleslav
+2988,Mladá Boleslav
+2989,Mladá Boleslav
+2990,Žďár nad Sázavou
+2991,Žďár nad Sázavou
+2992,Žďár nad Sázavou
+2993,Žďár nad Sázavou
+2994,Náchod
+2995,Náchod
+2996,Náchod
+2997,Louny
+2998,Louny
+2999,Louny
+3000,Louny
+3001,Zlín
+3002,Zlín
+3003,Zlín
+3004,Rakovník
+3005,"Přerov
+ Chrudim"
+3006,Frýdek-Místek
+3007,Frýdek-Místek
+3008,Frýdek-Místek
+3009,Frýdek-Místek
+3010,Hlavní město Praha
+3011,Hlavní město Praha
+3012,Hlavní město Praha
+3013,Hlavní město Praha
+3014,Hlavní město Praha
+3015,Hlavní město Praha
+3016,Hlavní město Praha
+3017,"Rychnov nad Kněžnou
+          Strakonice"
+3018,"Rychnov nad Kněžnou
+          Strakonice"
+3019,"Rychnov nad Kněžnou
+          Strakonice"
+3020,Most
+3021,Most
+3022,Most
+3023,Uherské Hradiště
+3024,Uherské Hradiště
+3025,Náchod
+3026,Náchod
+3027,Náchod
+3028,Plzeň-město
+3029,Žďár nad Sázavou
+3030,Žďár nad Sázavou
+3031,Žďár nad Sázavou
+3032,"Blansko
+ Benešov"
+3033,"Blansko
+ Benešov"
+3034,"Blansko
+ Benešov"
+3035,NA
+3036,Cheb
+3037,Cheb
+3038,Cheb
+3039,Hlavní město Praha
+3040,Hlavní město Praha
+3041,Hlavní město Praha
+3042,Hlavní město Praha
+3043,Třebíč
+3044,Třebíč
+3045,Třebíč
+3046,Rychnov nad Kněžnou
+3047,Rychnov nad Kněžnou
+3048,Rychnov nad Kněžnou
+3049,Rychnov nad Kněžnou
+3050,Cheb
+3051,Cheb
+3052,Kutná Hora
+3053,Kutná Hora
+3054,Kutná Hora
+3055,Kutná Hora
+3056,Kladno
+3057,Chrudim
+3058,NA
+3059,NA
+3060,NA
+3061,NA
+3062,NA
+3063,NA
+3064,NA
+3065,NA
+3066,NA
+3067,Ostrava-město
+3068,Ostrava-město
+3069,Plzeň-město
+3070,Plzeň-město
+3071,Plzeň-město
+3072,Plzeň-město
+3073,České Budějovice
+3074,České Budějovice
+3075,NA
+3076,NA
+3077,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3078,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3079,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3080,Hlavní město Praha
+3081,Hlavní město Praha
+3082,Hlavní město Praha
+3083,Hlavní město Praha
+3084,České Budějovice
+3085,Tábor
+3086,Tábor
+3087,Tábor
+3088,Tábor
+3089,Tábor
+3090,Tábor
+3091,Tábor
+3092,Tábor
+3093,Tábor
+3094,Tábor
+3095,Tábor
+3096,Tábor
+3097,Tábor
+3098,Hradec Králové
+3099,Hlavní město Praha
+3100,Hlavní město Praha
+3101,Hlavní město Praha
+3102,"Chrudim
+  Kladno"
+3103,"Chrudim
+  Kladno"
+3104,"Chrudim
+  Kladno"
+3105,"Chrudim
+  Kladno"
+3106,"Chrudim
+  Kladno"
+3107,"České Budějovice
+         Rokycany"
+3108,Mělník
+3109,NA
+3110,NA
+3111,Ústí nad Orlicí
+3112,Ústí nad Orlicí
+3113,Ústí nad Orlicí
+3114,Ústí nad Orlicí
+3115,Ústí nad Orlicí
+3116,Chrudim
+3117,Chrudim
+3118,Frýdek-Místek
+3119,Frýdek-Místek
+3120,Frýdek-Místek
+3121,"Plzeň-jih
+ Pelhřimov"
+3122,"Plzeň-jih
+ Pelhřimov"
+3123,"Plzeň-jih
+ Pelhřimov"
+3124,"Plzeň-jih
+ Pelhřimov"
+3125,Kladno
+3126,Kladno
+3127,Kladno
+3128,Hlavní město Praha
+3129,Hlavní město Praha
+3130,NA
+3131,NA
+3132,Pelhřimov
+3133,Pelhřimov
+3134,Pelhřimov
+3135,Pelhřimov
+3136,Pelhřimov
+3137,"Jičín
+ Mladá Boleslav"
+3138,Jihlava
+3139,Jičín
+3140,Jičín
+3141,Jičín
+3142,Jičín
+3143,Hlavní město Praha
+3144,Pelhřimov
+3145,Znojmo
+3146,Znojmo
+3147,Znojmo
+3148,Znojmo
+3149,Plzeň-město
+3150,Plzeň-město
+3151,Plzeň-město
+3152,Plzeň-město
+3153,Hradec Králové
+3154,Hradec Králové
+3155,Hradec Králové
+3156,Plzeň-město
+3157,Svitavy
+3158,Svitavy
+3159,NA
+3160,NA
+3161,NA
+3162,Pardubice
+3163,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3164,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3165,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3166,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3167,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3168,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3169,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3170,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3171,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3172,"Chrudim
+ Hodonín
+ Blansko"
+3173,NA
+3174,České Budějovice
+3175,České Budějovice
+3176,České Budějovice
+3177,Cheb
+3178,Cheb
+3179,Cheb
+3180,Cheb
+3181,Cheb
+3182,Chomutov
+3183,Chomutov
+3184,Praha-východ
+3185,Praha-východ
+3186,"Jičín
+ Mladá Boleslav"
+3187,"Chrudim
+ Hodonín
+ Blansko"
+3188,Chrudim
+3189,Cheb
+3190,Cheb
+3191,Hlavní město Praha
+3192,Hlavní město Praha
+3193,Hlavní město Praha
+3194,Hlavní město Praha
+3195,Hlavní město Praha
+3196,Hlavní město Praha
+3197,Hlavní město Praha
+3198,Hlavní město Praha
+3199,Hlavní město Praha
+3200,Hlavní město Praha
+3201,NA
+3202,NA
+3203,NA
+3204,NA
+3205,NA
+3206,NA
+3207,NA
+3208,NA
+3209,NA
+3210,NA
+3211,NA
+3212,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3213,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3214,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3215,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3216,Náchod
+3217,Náchod
+3218,Náchod
+3219,Náchod
+3220,Náchod
+3221,Náchod
+3222,Most
+3223,Most
+3224,NA
+3225,NA
+3226,NA
+3227,NA
+3228,NA
+3229,NA
+3230,NA
+3231,NA
+3232,NA
+3233,NA
+3234,NA
+3235,Semily
+3236,Most
+3237,Chomutov
+3238,Pardubice
+3239,NA
+3240,Svitavy
+3241,Brno-město
+3242,Brno-město
+3243,Hlavní město Praha
+3244,Hlavní město Praha
+3245,NA
+3246,NA
+3247,Plzeň-město
+3248,Plzeň-město
+3249,"Blansko
+ Benešov"
+3250,Nový Jičín
+3251,Třebíč
+3252,Litoměřice
+3253,NA
+3254,NA
+3255,"Brno-venkov
+      Beroun"
+3256,"Brno-venkov
+      Beroun"
+3257,"Brno-venkov
+      Beroun"
+3258,"Brno-venkov
+      Beroun"
+3259,Chomutov
+3260,Chomutov
+3261,Chomutov
+3262,Chomutov
+3263,Chomutov
+3264,Chomutov
+3265,"Brno-venkov
+ Praha-východ"
+3266,"Brno-venkov
+ Praha-východ"
+3267,České Budějovice
+3268,České Budějovice
+3269,České Budějovice
+3270,Hlavní město Praha
+3271,Hlavní město Praha
+3272,Hlavní město Praha
+3273,Hlavní město Praha
+3274,Jičín
+3275,Jičín
+3276,Kladno
+3277,Brno-město
+3278,Brno-město
+3279,Brno-město
+3280,Brno-město
+3281,NA
+3282,NA
+3283,NA
+3284,NA
+3285,Náchod
+3286,Náchod
+3287,Náchod
+3288,Náchod
+3289,Hlavní město Praha
+3290,Hlavní město Praha
+3291,Svitavy
+3292,Kladno
+3293,Karlovy Vary
+3294,Karlovy Vary
+3295,Karlovy Vary
+3296,Karlovy Vary
+3297,Karlovy Vary
+3298,Karlovy Vary
+3299,NA
+3300,Karviná
+3301,Karviná
+3302,Svitavy
+3303,Česká Lípa
+3304,Česká Lípa
+3305,Znojmo
+3306,NA
+3307,NA
+3308,NA
+3309,NA
+3310,NA
+3311,NA
+3312,NA
+3313,NA
+3314,Plzeň-město
+3315,Karlovy Vary
+3316,Karlovy Vary
+3317,Karlovy Vary
+3318,Karlovy Vary
+3319,Karlovy Vary
+3320,Karlovy Vary
+3321,Hlavní město Praha
+3322,Hlavní město Praha
+3323,Hlavní město Praha
+3324,Brno-město
+3325,NA
+3326,Hlavní město Praha
+3327,Plzeň-město
+3328,Plzeň-město
+3329,Plzeň-město
+3330,Plzeň-město
+3331,Hlavní město Praha
+3332,Svitavy
+3333,NA
+3334,NA
+3335,"Teplice
+ Břeclav"
+3336,Žďár nad Sázavou
+3337,Žďár nad Sázavou
+3338,Žďár nad Sázavou
+3339,Žďár nad Sázavou
+3340,Náchod
+3341,Louny
+3342,Louny
+3343,Louny
+3344,Louny
+3345,Zlín
+3346,Zlín
+3347,Rakovník
+3348,Frýdek-Místek
+3349,Frýdek-Místek
+3350,Frýdek-Místek
+3351,Frýdek-Místek
+3352,Frýdek-Místek
+3353,Frýdek-Místek
+3354,Hlavní město Praha
+3355,Hlavní město Praha
+3356,Hlavní město Praha
+3357,Hlavní město Praha
+3358,Hlavní město Praha
+3359,Hlavní město Praha
+3360,Hlavní město Praha
+3361,Hlavní město Praha
+3362,Hlavní město Praha
+3363,Most
+3364,Náchod
+3365,Žďár nad Sázavou
+3366,Hradec Králové
+3367,Hradec Králové
+3368,Hradec Králové
+3369,"Blansko
+ Benešov"
+3370,"Blansko
+ Benešov"
+3371,"Blansko
+ Benešov"
+3372,"Blansko
+ Benešov"
+3373,Hlavní město Praha
+3374,Třebíč
+3375,Rychnov nad Kněžnou
+3376,Rychnov nad Kněžnou
+3377,Rychnov nad Kněžnou
+3378,Cheb
+3379,Cheb
+3380,NA
+3381,NA
+3382,Ostrava-město
+3383,Ostrava-město
+3384,Plzeň-město
+3385,Plzeň-město
+3386,Plzeň-město
+3387,Plzeň-město
+3388,Blansko
+3389,Blansko
+3390,NA
+3391,NA
+3392,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3393,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3394,Hlavní město Praha
+3395,Hlavní město Praha
+3396,NA
+3397,Tábor
+3398,Tábor
+3399,Hradec Králové
+3400,Hradec Králové
+3401,Brno-město
+3402,Brno-město
+3403,Brno-město
+3404,Mělník
+3405,Mělník
+3406,NA
+3407,NA
+3408,Most
+3409,Most
+3410,Most
+3411,Frýdek-Místek
+3412,Frýdek-Místek
+3413,"Plzeň-jih
+ Pelhřimov"
+3414,"Plzeň-jih
+ Pelhřimov"
+3415,Kladno
+3416,NA
+3417,Pelhřimov
+3418,Pelhřimov
+3419,Pelhřimov
+3420,Hlavní město Praha
+3421,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+3422,Ústí nad Orlicí
+3423,Znojmo
+3424,Znojmo
+3425,Znojmo
+3426,Plzeň-město
+3427,Plzeň-město
+3428,NA
+3429,NA
+3430,Znojmo
+3431,Praha-východ
+3432,"Chrudim
+ Hodonín
+ Blansko"
+3433,"Chrudim
+ Hodonín
+ Blansko"
+3434,Cheb
+3435,Hlavní město Praha
+3436,Hlavní město Praha
+3437,Hlavní město Praha
+3438,Hlavní město Praha
+3439,Hlavní město Praha
+3440,Hlavní město Praha
+3441,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3442,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3443,"Hradec Králové
+   Praha-východ"
+3444,"Hradec Králové
+   Praha-východ"
+3445,"Hradec Králové
+   Praha-východ"
+3446,"Hradec Králové
+   Praha-východ"
+3447,NA
+3448,Semily
+3449,Hlavní město Praha
+3450,Hlavní město Praha
+3451,Hlavní město Praha
+3452,Hlavní město Praha
+3453,Hlavní město Praha
+3454,Hlavní město Praha
+3455,NA
+3456,Plzeň-město
+3457,Plzeň-město
+3458,Plzeň-město
+3459,Brno-město
+3460,NA
+3461,NA
+3462,Nový Jičín
+3463,Nový Jičín
+3464,Třebíč
+3465,Třebíč
+3466,Litoměřice
+3467,Litoměřice
+3468,"Brno-venkov
+      Beroun"
+3469,"Brno-venkov
+      Beroun"
+3470,NA
+3471,České Budějovice
+3472,České Budějovice
+3473,České Budějovice
+3474,České Budějovice
+3475,Cheb
+3476,Cheb
+3477,Cheb
+3478,Hlavní město Praha
+3479,Hlavní město Praha
+3480,Hlavní město Praha
+3481,Hlavní město Praha
+3482,Brno-město
+3483,NA
+3484,NA
+3485,Náchod
+3486,Náchod
+3487,Náchod
+3488,NA
+3489,NA
+3490,NA
+3491,NA
+3492,NA
+3493,Plzeň-město
+3494,Plzeň-město
+3495,Plzeň-město
+3496,Plzeň-město
+3497,Plzeň-město
+3498,Karlovy Vary
+3499,Karlovy Vary
+3500,Hlavní město Praha
+3501,Hlavní město Praha
+3502,Liberec
+3503,České Budějovice
+3504,Plzeň-město
+3505,Plzeň-město
+3506,Náchod
+3507,Louny
+3508,"Přerov
+ Chrudim"
+3509,Hradec Králové
+3510,Žďár nad Sázavou
+3511,Hradec Králové
+3512,Hradec Králové
+3513,Hradec Králové
+3514,Hradec Králové
+3515,Hlavní město Praha
+3516,Třebíč
+3517,Rychnov nad Kněžnou
+3518,Rychnov nad Kněžnou
+3519,Chrudim
+3520,NA
+3521,NA
+3522,NA
+3523,NA
+3524,NA
+3525,Plzeň-město
+3526,Plzeň-město
+3527,České Budějovice
+3528,České Budějovice
+3529,České Budějovice
+3530,České Budějovice
+3531,Hlavní město Praha
+3532,Tábor
+3533,Tábor
+3534,Tábor
+3535,Tábor
+3536,Tábor
+3537,Tábor
+3538,Tábor
+3539,Tábor
+3540,Tábor
+3541,Tábor
+3542,"Chrudim
+  Kladno"
+3543,Most
+3544,NA
+3545,NA
+3546,NA
+3547,NA
+3548,Ústí nad Orlicí
+3549,Ústí nad Orlicí
+3550,Ústí nad Orlicí
+3551,Ústí nad Orlicí
+3552,Frýdek-Místek
+3553,Frýdek-Místek
+3554,Frýdek-Místek
+3555,Frýdek-Místek
+3556,"Plzeň-jih
+ Pelhřimov"
+3557,"Plzeň-jih
+ Pelhřimov"
+3558,Kladno
+3559,Kladno
+3560,Hlavní město Praha
+3561,NA
+3562,Teplice
+3563,Teplice
+3564,Pelhřimov
+3565,Pelhřimov
+3566,Pelhřimov
+3567,Pelhřimov
+3568,"Jičín
+ Mladá Boleslav"
+3569,Jičín
+3570,Hlavní město Praha
+3571,Brno-město
+3572,Pelhřimov
+3573,Pelhřimov
+3574,Ústí nad Orlicí
+3575,Ústí nad Orlicí
+3576,Znojmo
+3577,Znojmo
+3578,Znojmo
+3579,Znojmo
+3580,Znojmo
+3581,Znojmo
+3582,Znojmo
+3583,Znojmo
+3584,Plzeň-město
+3585,Plzeň-město
+3586,Plzeň-město
+3587,Plzeň-město
+3588,Plzeň-město
+3589,Plzeň-město
+3590,Plzeň-město
+3591,NA
+3592,NA
+3593,Nymburk
+3594,NA
+3595,NA
+3596,NA
+3597,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3598,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3599,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+3600,"Zlín
+ Brno-venkov"
+3601,Pardubice
+3602,"Chrudim
+ Hodonín
+ Blansko"
+3603,Mladá Boleslav
+3604,Mladá Boleslav
+3605,Mladá Boleslav
+3606,Mladá Boleslav
+3607,České Budějovice
+3608,České Budějovice
+3609,České Budějovice
+3610,NA
+3611,NA
+3612,NA
+3613,Cheb
+3614,Chomutov
+3615,Chomutov
+3616,Praha-východ
+3617,"Chrudim
+ Hodonín
+ Blansko"
+3618,"Chrudim
+ Hodonín
+ Blansko"
+3619,Chrudim
+3620,Chrudim
+3621,Cheb
+3622,Cheb
+3623,Hlavní město Praha
+3624,Hlavní město Praha
+3625,NA
+3626,NA
+3627,NA
+3628,NA
+3629,NA
+3630,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+3631,Trutnov
+3632,Trutnov
+3633,Náchod
+3634,NA
+3635,NA
+3636,NA
+3637,NA
+3638,NA
+3639,NA
+3640,NA
+3641,NA
+3642,NA
+3643,NA
+3644,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+3645,Ústí nad Orlicí
+3646,NA
+3647,Most
+3648,NA
+3649,Hlavní město Praha
+3650,Hlavní město Praha
+3651,NA
+3652,NA
+3653,Brno-město
+3654,NA
+3655,Hlavní město Praha
+3656,NA
+3657,NA
+3658,NA
+3659,NA
+3660,NA
+3661,NA
+3662,NA
+3663,NA
+3664,NA
+3665,NA
+3666,NA
+3667,NA
+3668,NA
+3669,NA
+3670,NA
+3671,NA
+3672,NA
+3673,Plzeň-město
+3674,Plzeň-město
+3675,Brno-město
+3676,Brno-město
+3677,NA
+3678,NA
+3679,NA
+3680,"Blansko
+ Benešov"
+3681,Nový Jičín
+3682,Nový Jičín
+3683,Nový Jičín
+3684,Nový Jičín
+3685,Třebíč
+3686,Třebíč
+3687,Kolín
+3688,Litoměřice
+3689,NA
+3690,NA
+3691,NA
+3692,"Brno-venkov
+      Beroun"
+3693,"Brno-venkov
+      Beroun"
+3694,"Brno-venkov
+      Beroun"
+3695,"Brno-venkov
+      Beroun"
+3696,"Brno-venkov
+      Beroun"
+3697,"Brno-venkov
+      Beroun"
+3698,"Brno-venkov
+      Beroun"
+3699,"Brno-venkov
+      Beroun"
+3700,"Brno-venkov
+      Beroun"
+3701,"Brno-venkov
+      Beroun"
+3702,"Brno-venkov
+      Beroun"
+3703,"Brno-venkov
+      Beroun"
+3704,Znojmo
+3705,Znojmo
+3706,Znojmo
+3707,Znojmo
+3708,Chomutov
+3709,Chomutov
+3710,Chomutov
+3711,Chomutov
+3712,Chomutov
+3713,Chomutov
+3714,Chomutov
+3715,"Brno-venkov
+ Praha-východ"
+3716,Hlavní město Praha
+3717,České Budějovice
+3718,České Budějovice
+3719,Pardubice
+3720,Pardubice
+3721,Pardubice
+3722,Pardubice
+3723,Pardubice
+3724,Pardubice
+3725,Frýdek-Místek
+3726,Hlavní město Praha
+3727,Hlavní město Praha
+3728,Hlavní město Praha
+3729,Hlavní město Praha
+3730,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+3731,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+3732,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+3733,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+3734,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+3735,"Blansko
+ Benešov"
+3736,NA
+3737,Hlavní město Praha
+3738,Karviná
+3739,Karviná
+3740,Chrudim
+3741,Hlavní město Praha
+3742,Hlavní město Praha
+3743,Hlavní město Praha
+3744,Hlavní město Praha
+3745,Hlavní město Praha
+3746,Hlavní město Praha
+3747,Hlavní město Praha
+3748,Hlavní město Praha
+3749,Hlavní město Praha
+3750,Hlavní město Praha
+3751,Hlavní město Praha
+3752,Hlavní město Praha
+3753,Hlavní město Praha
+3754,Hlavní město Praha
+3755,Hlavní město Praha
+3756,Hlavní město Praha
+3757,Hlavní město Praha
+3758,Hlavní město Praha
+3759,Hlavní město Praha
+3760,Hlavní město Praha
+3761,Hlavní město Praha
+3762,Hlavní město Praha
+3763,Hlavní město Praha
+3764,Hlavní město Praha
+3765,Jičín
+3766,"České Budějovice
+      Brno-venkov"
+3767,"České Budějovice
+      Brno-venkov"
+3768,"České Budějovice
+      Brno-venkov"
+3769,"České Budějovice
+      Brno-venkov"
+3770,Brno-město
+3771,Brno-město
+3772,Brno-město
+3773,Brno-město
+3774,Brno-město
+3775,Brno-město
+3776,NA
+3777,NA
+3778,NA
+3779,NA
+3780,NA
+3781,NA
+3782,NA
+3783,Strakonice
+3784,Strakonice
+3785,Strakonice
+3786,NA
+3787,NA
+3788,Svitavy
+3789,Svitavy
+3790,České Budějovice
+3791,NA
+3792,NA
+3793,NA
+3794,NA
+3795,NA
+3796,NA
+3797,NA
+3798,NA
+3799,NA
+3800,NA
+3801,Ústí nad Orlicí
+3802,Ústí nad Orlicí
+3803,Česká Lípa
+3804,Plzeň-jih
+3805,Ostrava-město
+3806,Ostrava-město
+3807,NA
+3808,Frýdek-Místek
+3809,Frýdek-Místek
+3810,Frýdek-Místek
+3811,Hradec Králové
+3812,Hradec Králové
+3813,NA
+3814,NA
+3815,NA
+3816,NA
+3817,NA
+3818,NA
+3819,NA
+3820,NA
+3821,Písek
+3822,NA
+3823,Karlovy Vary
+3824,Karlovy Vary
+3825,Karlovy Vary
+3826,Karlovy Vary
+3827,Hlavní město Praha
+3828,Hlavní město Praha
+3829,Hlavní město Praha
+3830,Prostějov
+3831,Prostějov
+3832,"Jindřichův Hradec
+        Česká Lípa"
+3833,"Jindřichův Hradec
+        Česká Lípa"
+3834,"Jindřichův Hradec
+        Česká Lípa"
+3835,"Jindřichův Hradec
+        Česká Lípa"
+3836,"Jindřichův Hradec
+        Česká Lípa"
+3837,"Jindřichův Hradec
+        Česká Lípa"
+3838,"Jindřichův Hradec
+        Česká Lípa"
+3839,Hlavní město Praha
+3840,Hlavní město Praha
+3841,Hlavní město Praha
+3842,Hlavní město Praha
+3843,Hlavní město Praha
+3844,Brno-město
+3845,Brno-město
+3846,České Budějovice
+3847,Hlavní město Praha
+3848,Hlavní město Praha
+3849,Hlavní město Praha
+3850,Hlavní město Praha
+3851,Plzeň-město
+3852,Plzeň-město
+3853,Plzeň-město
+3854,Plzeň-město
+3855,Plzeň-město
+3856,Plzeň-město
+3857,Plzeň-město
+3858,NA
+3859,Mladá Boleslav
+3860,Mladá Boleslav
+3861,Žďár nad Sázavou
+3862,Žďár nad Sázavou
+3863,Žďár nad Sázavou
+3864,Žďár nad Sázavou
+3865,Žďár nad Sázavou
+3866,Žďár nad Sázavou
+3867,Žďár nad Sázavou
+3868,Náchod
+3869,Náchod
+3870,Náchod
+3871,Louny
+3872,Louny
+3873,Louny
+3874,Zlín
+3875,Zlín
+3876,Zlín
+3877,"Přerov
+ Chrudim"
+3878,"Přerov
+ Chrudim"
+3879,"Přerov
+ Chrudim"
+3880,Frýdek-Místek
+3881,Frýdek-Místek
+3882,Hlavní město Praha
+3883,Hlavní město Praha
+3884,Hlavní město Praha
+3885,Hlavní město Praha
+3886,Hlavní město Praha
+3887,Hlavní město Praha
+3888,Hlavní město Praha
+3889,Hlavní město Praha
+3890,Hlavní město Praha
+3891,Hlavní město Praha
+3892,"Rychnov nad Kněžnou
+          Strakonice"
+3893,"Rychnov nad Kněžnou
+          Strakonice"
+3894,"Rychnov nad Kněžnou
+          Strakonice"
+3895,"Rychnov nad Kněžnou
+          Strakonice"
+3896,Most
+3897,Most
+3898,Most
+3899,Uherské Hradiště
+3900,Žďár nad Sázavou
+3901,Žďár nad Sázavou
+3902,Žďár nad Sázavou
+3903,"Blansko
+ Benešov"
+3904,"Blansko
+ Benešov"
+3905,"Blansko
+ Benešov"
+3906,Cheb
+3907,Cheb
+3908,Cheb
+3909,Cheb
+3910,Cheb
+3911,Cheb
+3912,Hlavní město Praha
+3913,Hlavní město Praha
+3914,Hlavní město Praha
+3915,Hlavní město Praha
+3916,Třebíč
+3917,Třebíč
+3918,Třebíč
+3919,Třebíč
+3920,Brno-město
+3921,Cheb
+3922,Kutná Hora
+3923,Kutná Hora
+3924,Kutná Hora
+3925,Kutná Hora
+3926,Kutná Hora
+3927,Kutná Hora
+3928,Kutná Hora
+3929,Kutná Hora
+3930,Kladno
+3931,Chrudim
+3932,Chrudim
+3933,Chrudim
+3934,NA
+3935,Plzeň-město
+3936,Plzeň-město
+3937,Plzeň-město
+3938,České Budějovice
+3939,České Budějovice
+3940,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3941,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+3942,NA
+3943,NA
+3944,České Budějovice
+3945,Tábor
+3946,Tábor
+3947,Tábor
+3948,Tábor
+3949,Tábor
+3950,Tábor
+3951,Tábor
+3952,Tábor
+3953,Tábor
+3954,Tábor
+3955,Tábor
+3956,Tábor
+3957,Tábor
+3958,Chrudim
+3959,Chrudim
+3960,Chrudim
+3961,Chrudim
+3962,Chrudim
+3963,Chrudim
+3964,Hradec Králové
+3965,Hradec Králové
+3966,Hlavní město Praha
+3967,Hlavní město Praha
+3968,Hlavní město Praha
+3969,Hlavní město Praha
+3970,Hlavní město Praha
+3971,Hlavní město Praha
+3972,"Chrudim
+  Kladno"
+3973,"České Budějovice
+         Rokycany"
+3974,"České Budějovice
+         Rokycany"
+3975,"České Budějovice
+         Rokycany"
+3976,Brno-město
+3977,Brno-město
+3978,Chrudim
+3979,Most
+3980,Most
+3981,Most
+3982,Most
+3983,Frýdek-Místek
+3984,NA
+3985,Kladno
+3986,Kladno
+3987,Teplice
+3988,Pelhřimov
+3989,Jičín
+3990,Jičín
+3991,Hlavní město Praha
+3992,NA
+3993,Ústí nad Orlicí
+3994,Ústí nad Orlicí
+3995,Plzeň-město
+3996,Plzeň-město
+3997,Plzeň-město
+3998,Plzeň-město
+3999,Plzeň-město
+4000,Plzeň-město
+4001,NA
+4002,Plzeň-město
+4003,Plzeň-město
+4004,Hlavní město Praha
+4005,NA
+4006,NA
+4007,NA
+4008,"Zlín
+ Brno-venkov"
+4009,"Zlín
+ Brno-venkov"
+4010,"Zlín
+ Brno-venkov"
+4011,"Zlín
+ Brno-venkov"
+4012,"Zlín
+ Brno-venkov"
+4013,"Zlín
+ Brno-venkov"
+4014,"Zlín
+ Brno-venkov"
+4015,"Zlín
+ Brno-venkov"
+4016,"Zlín
+ Brno-venkov"
+4017,"Zlín
+ Brno-venkov"
+4018,"Zlín
+ Brno-venkov"
+4019,"Zlín
+ Brno-venkov"
+4020,"Zlín
+ Brno-venkov"
+4021,"Zlín
+ Brno-venkov"
+4022,"Zlín
+ Brno-venkov"
+4023,"Zlín
+ Brno-venkov"
+4024,Hradec Králové
+4025,Cheb
+4026,Cheb
+4027,Cheb
+4028,Cheb
+4029,Hlavní město Praha
+4030,Hlavní město Praha
+4031,Hlavní město Praha
+4032,Hlavní město Praha
+4033,Hlavní město Praha
+4034,Hlavní město Praha
+4035,Hlavní město Praha
+4036,Hlavní město Praha
+4037,Hlavní město Praha
+4038,NA
+4039,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4040,Ústí nad Orlicí
+4041,NA
+4042,NA
+4043,NA
+4044,NA
+4045,NA
+4046,NA
+4047,NA
+4048,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+4049,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+4050,NA
+4051,NA
+4052,Svitavy
+4053,Brno-město
+4054,NA
+4055,Hlavní město Praha
+4056,NA
+4057,NA
+4058,NA
+4059,NA
+4060,NA
+4061,NA
+4062,Brno-město
+4063,NA
+4064,Nový Jičín
+4065,Nový Jičín
+4066,Nový Jičín
+4067,Nový Jičín
+4068,Nový Jičín
+4069,Třebíč
+4070,Litoměřice
+4071,NA
+4072,NA
+4073,NA
+4074,NA
+4075,NA
+4076,NA
+4077,Chomutov
+4078,Chomutov
+4079,Pardubice
+4080,Pardubice
+4081,Hlavní město Praha
+4082,Hlavní město Praha
+4083,"Blansko
+ Benešov"
+4084,Hlavní město Praha
+4085,Hlavní město Praha
+4086,Hlavní město Praha
+4087,Kladno
+4088,"České Budějovice
+      Brno-venkov"
+4089,Brno-město
+4090,Brno-město
+4091,NA
+4092,Náchod
+4093,Náchod
+4094,Náchod
+4095,NA
+4096,Strakonice
+4097,České Budějovice
+4098,Sokolov
+4099,Kladno
+4100,Znojmo
+4101,Ostrava-město
+4102,Ostrava-město
+4103,NA
+4104,NA
+4105,NA
+4106,NA
+4107,NA
+4108,NA
+4109,NA
+4110,NA
+4111,NA
+4112,Plzeň-město
+4113,Karlovy Vary
+4114,Karlovy Vary
+4115,Bruntál
+4116,Hlavní město Praha
+4117,Hlavní město Praha
+4118,Brno-město
+4119,NA
+4120,NA
+4121,NA
+4122,NA
+4123,České Budějovice
+4124,České Budějovice
+4125,Hlavní město Praha
+4126,Plzeň-město
+4127,Plzeň-město
+4128,NA
+4129,NA
+4130,Žďár nad Sázavou
+4131,Žďár nad Sázavou
+4132,Žďár nad Sázavou
+4133,Žďár nad Sázavou
+4134,Žďár nad Sázavou
+4135,Louny
+4136,Zlín
+4137,Zlín
+4138,Zlín
+4139,Zlín
+4140,Zlín
+4141,Hlavní město Praha
+4142,Hlavní město Praha
+4143,Hlavní město Praha
+4144,Hlavní město Praha
+4145,Náchod
+4146,Plzeň-město
+4147,"Blansko
+ Benešov"
+4148,"Blansko
+ Benešov"
+4149,Hlavní město Praha
+4150,Hlavní město Praha
+4151,Třebíč
+4152,Třebíč
+4153,Třebíč
+4154,Rychnov nad Kněžnou
+4155,Cheb
+4156,Cheb
+4157,Kutná Hora
+4158,Chrudim
+4159,NA
+4160,NA
+4161,Ostrava-město
+4162,Plzeň-město
+4163,Plzeň-město
+4164,České Budějovice
+4165,NA
+4166,Hlavní město Praha
+4167,Hlavní město Praha
+4168,Hlavní město Praha
+4169,NA
+4170,Tábor
+4171,Tábor
+4172,Tábor
+4173,Tábor
+4174,Tábor
+4175,Tábor
+4176,Tábor
+4177,Tábor
+4178,Tábor
+4179,Chrudim
+4180,Hlavní město Praha
+4181,Hlavní město Praha
+4182,Hlavní město Praha
+4183,"České Budějovice
+         Rokycany"
+4184,Brno-město
+4185,Brno-město
+4186,Mělník
+4187,Mělník
+4188,NA
+4189,Tábor
+4190,NA
+4191,Kladno
+4192,NA
+4193,NA
+4194,NA
+4195,NA
+4196,Pelhřimov
+4197,Brno-město
+4198,Brno-město
+4199,Brno-město
+4200,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+4201,Ústí nad Orlicí
+4202,Ústí nad Orlicí
+4203,Plzeň-město
+4204,Nymburk
+4205,Nymburk
+4206,Plzeň-město
+4207,NA
+4208,NA
+4209,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4210,"Chrudim
+ Hodonín
+ Blansko"
+4211,Mladá Boleslav
+4212,České Budějovice
+4213,Cheb
+4214,Cheb
+4215,Cheb
+4216,Chomutov
+4217,"Chrudim
+ Hodonín
+ Blansko"
+4218,Cheb
+4219,Cheb
+4220,Cheb
+4221,Hlavní město Praha
+4222,NA
+4223,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4224,Trutnov
+4225,Trutnov
+4226,Trutnov
+4227,NA
+4228,NA
+4229,NA
+4230,NA
+4231,NA
+4232,NA
+4233,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+4234,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+4235,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+4236,Olomouc
+4237,Olomouc
+4238,Olomouc
+4239,Olomouc
+4240,Olomouc
+4241,Hlavní město Praha
+4242,NA
+4243,NA
+4244,NA
+4245,NA
+4246,Brno-město
+4247,NA
+4248,Litoměřice
+4249,NA
+4250,NA
+4251,Hlavní město Praha
+4252,Pardubice
+4253,Pardubice
+4254,Sokolov
+4255,Sokolov
+4256,"Blansko
+ Benešov"
+4257,"Blansko
+ Benešov"
+4258,Karviná
+4259,Jičín
+4260,Brno-město
+4261,Brno-město
+4262,Brno-město
+4263,Brno-město
+4264,NA
+4265,NA
+4266,Náchod
+4267,Náchod
+4268,Strakonice
+4269,Strakonice
+4270,NA
+4271,Svitavy
+4272,Kladno
+4273,Karlovy Vary
+4274,Karlovy Vary
+4275,Karlovy Vary
+4276,Karviná
+4277,Česká Lípa
+4278,NA
+4279,Frýdek-Místek
+4280,Hradec Králové
+4281,České Budějovice
+4282,České Budějovice
+4283,NA
+4284,NA
+4285,Plzeň-město
+4286,Karlovy Vary
+4287,Karlovy Vary
+4288,Hlavní město Praha
+4289,Liberec
+4290,Louny
+4291,Zlín
+4292,Zlín
+4293,Frýdek-Místek
+4294,Hlavní město Praha
+4295,Hlavní město Praha
+4296,Hlavní město Praha
+4297,"Rychnov nad Kněžnou
+          Strakonice"
+4298,"Rychnov nad Kněžnou
+          Strakonice"
+4299,Most
+4300,Most
+4301,Hlavní město Praha
+4302,Cheb
+4303,Cheb
+4304,NA
+4305,NA
+4306,NA
+4307,NA
+4308,Ostrava-město
+4309,Ostrava-město
+4310,České Budějovice
+4311,Tábor
+4312,Tábor
+4313,Tábor
+4314,Tábor
+4315,Tábor
+4316,"České Budějovice
+         Rokycany"
+4317,"České Budějovice
+         Rokycany"
+4318,"České Budějovice
+         Rokycany"
+4319,Brno-město
+4320,Most
+4321,Most
+4322,NA
+4323,NA
+4324,NA
+4325,Frýdek-Místek
+4326,NA
+4327,Kutná Hora
+4328,Plzeň-město
+4329,NA
+4330,České Budějovice
+4331,Chrudim
+4332,Chrudim
+4333,Chrudim
+4334,Chrudim
+4335,Cheb
+4336,Hlavní město Praha
+4337,Hlavní město Praha
+4338,Hlavní město Praha
+4339,Hlavní město Praha
+4340,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4341,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4342,NA
+4343,NA
+4344,NA
+4345,Třebíč
+4346,Třebíč
+4347,Třebíč
+4348,Třebíč
+4349,Třebíč
+4350,NA
+4351,Hlavní město Praha
+4352,Hlavní město Praha
+4353,Sokolov
+4354,Hlavní město Praha
+4355,Karlovy Vary
+4356,Česká Lípa
+4357,NA
+4358,Karlovy Vary
+4359,Liberec
+4360,NA
+4361,Louny
+4362,Louny
+4363,Plzeň-město
+4364,Plzeň-město
+4365,"Blansko
+ Benešov"
+4366,"Blansko
+ Benešov"
+4367,"Blansko
+ Benešov"
+4368,"Blansko
+ Benešov"
+4369,"Blansko
+ Benešov"
+4370,NA
+4371,Cheb
+4372,Blansko
+4373,NA
+4374,NA
+4375,Plzeň-město
+4376,České Budějovice
+4377,Hlavní město Praha
+4378,NA
+4379,Tábor
+4380,Tábor
+4381,Tábor
+4382,Tábor
+4383,Mělník
+4384,Hlavní město Praha
+4385,Hlavní město Praha
+4386,Hlavní město Praha
+4387,Hlavní město Praha
+4388,Hlavní město Praha
+4389,Hlavní město Praha
+4390,NA
+4391,NA
+4392,NA
+4393,NA
+4394,NA
+4395,NA
+4396,Ústí nad Orlicí
+4397,Ústí nad Orlicí
+4398,Chrudim
+4399,Chrudim
+4400,Chrudim
+4401,Chrudim
+4402,Most
+4403,Most
+4404,Most
+4405,Most
+4406,Most
+4407,Tábor
+4408,"Plzeň-jih
+ Pelhřimov"
+4409,"Plzeň-jih
+ Pelhřimov"
+4410,"Plzeň-jih
+ Pelhřimov"
+4411,"Plzeň-jih
+ Pelhřimov"
+4412,"Plzeň-jih
+ Pelhřimov"
+4413,"Plzeň-jih
+ Pelhřimov"
+4414,"Plzeň-jih
+ Pelhřimov"
+4415,Chrudim
+4416,NA
+4417,NA
+4418,NA
+4419,Chrudim
+4420,Chrudim
+4421,Kladno
+4422,Kladno
+4423,Kladno
+4424,NA
+4425,NA
+4426,NA
+4427,Teplice
+4428,Teplice
+4429,Teplice
+4430,Pelhřimov
+4431,Pelhřimov
+4432,Pelhřimov
+4433,Pelhřimov
+4434,Pelhřimov
+4435,Pelhřimov
+4436,Pelhřimov
+4437,Pelhřimov
+4438,Pelhřimov
+4439,Pelhřimov
+4440,Pelhřimov
+4441,Kutná Hora
+4442,Kutná Hora
+4443,Kutná Hora
+4444,"Jičín
+ Mladá Boleslav"
+4445,"Jičín
+ Mladá Boleslav"
+4446,"Jičín
+ Mladá Boleslav"
+4447,"Jičín
+ Mladá Boleslav"
+4448,Jihlava
+4449,Jihlava
+4450,Hlavní město Praha
+4451,Hlavní město Praha
+4452,Pelhřimov
+4453,NA
+4454,NA
+4455,NA
+4456,NA
+4457,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+4458,Ústí nad Orlicí
+4459,Ústí nad Orlicí
+4460,Znojmo
+4461,Znojmo
+4462,Znojmo
+4463,Znojmo
+4464,Plzeň-město
+4465,Plzeň-město
+4466,NA
+4467,NA
+4468,NA
+4469,NA
+4470,Hradec Králové
+4471,Hradec Králové
+4472,Hradec Králové
+4473,Hradec Králové
+4474,Hradec Králové
+4475,Hradec Králové
+4476,Hradec Králové
+4477,Nymburk
+4478,Nymburk
+4479,Plzeň-město
+4480,Plzeň-město
+4481,Plzeň-město
+4482,Svitavy
+4483,Svitavy
+4484,Svitavy
+4485,Hlavní město Praha
+4486,Hlavní město Praha
+4487,NA
+4488,NA
+4489,NA
+4490,NA
+4491,NA
+4492,NA
+4493,NA
+4494,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4495,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4496,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4497,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4498,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4499,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4500,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4501,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+4502,Pardubice
+4503,Pardubice
+4504,Pardubice
+4505,Pardubice
+4506,Pardubice
+4507,Pardubice
+4508,Pardubice
+4509,Pardubice
+4510,Pardubice
+4511,Pardubice
+4512,Pardubice
+4513,Pardubice
+4514,Pardubice
+4515,Pardubice
+4516,Pardubice
+4517,Pardubice
+4518,Pardubice
+4519,Třebíč
+4520,Třebíč
+4521,NA
+4522,NA
+4523,Mladá Boleslav
+4524,Mladá Boleslav
+4525,České Budějovice
+4526,České Budějovice
+4527,České Budějovice
+4528,České Budějovice
+4529,České Budějovice
+4530,České Budějovice
+4531,České Budějovice
+4532,České Budějovice
+4533,České Budějovice
+4534,Znojmo
+4535,Cheb
+4536,Cheb
+4537,Chomutov
+4538,Chomutov
+4539,Chomutov
+4540,Chomutov
+4541,Chomutov
+4542,Praha-východ
+4543,"Jičín
+ Mladá Boleslav"
+4544,"Jičín
+ Mladá Boleslav"
+4545,"Jičín
+ Mladá Boleslav"
+4546,"Jičín
+ Mladá Boleslav"
+4547,"Chrudim
+ Hodonín
+ Blansko"
+4548,"Chrudim
+ Hodonín
+ Blansko"
+4549,Chrudim
+4550,Cheb
+4551,Cheb
+4552,Cheb
+4553,Hlavní město Praha
+4554,Hlavní město Praha
+4555,Hlavní město Praha
+4556,Hlavní město Praha
+4557,Hlavní město Praha
+4558,Hlavní město Praha
+4559,Hlavní město Praha
+4560,Hlavní město Praha
+4561,Hlavní město Praha
+4562,Hlavní město Praha
+4563,Hlavní město Praha
+4564,Hlavní město Praha
+4565,NA
+4566,NA
+4567,NA
+4568,NA
+4569,NA
+4570,NA
+4571,NA
+4572,NA
+4573,NA
+4574,NA
+4575,NA
+4576,NA
+4577,NA
+4578,NA
+4579,NA
+4580,NA
+4581,NA
+4582,NA
+4583,NA
+4584,NA
+4585,NA
+4586,NA
+4587,NA
+4588,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4589,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4590,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4591,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4592,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4593,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4594,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4595,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+4596,Klatovy
+4597,Ústí nad Orlicí
+4598,Nový Jičín
+4599,Náchod
+4600,Náchod
+4601,Náchod
+4602,Náchod
+4603,Náchod
+4604,Náchod
+4605,Náchod
+4606,Náchod
+4607,Náchod
+4608,Náchod
+4609,Náchod
+4610,Náchod
+4611,Náchod
+4612,Most
+4613,Most
+4614,Most
+4615,NA
+4616,NA
+4617,Třebíč
+4618,NA
+4619,NA
+4620,NA
+4621,NA
+4622,NA
+4623,NA
+4624,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+4625,Kladno
+4626,Ústí nad Orlicí
+4627,Ústí nad Orlicí
+4628,Semily
+4629,Semily
+4630,Semily
+4631,NA
+4632,NA
+4633,NA
+4634,NA
+4635,NA
+4636,NA
+4637,Hlavní město Praha
+4638,Hlavní město Praha
+4639,Hlavní město Praha
+4640,Hlavní město Praha
+4641,Hlavní město Praha
+4642,Hlavní město Praha
+4643,Ostrava-město
+4644,NA
+4645,Chomutov
+4646,Chomutov
+4647,Svitavy
+4648,Hlavní město Praha
+4649,"Písek
+ České Budějovice"
+4650,"Písek
+ České Budějovice"
+4651,NA
+4652,NA
+4653,Hlavní město Praha
+4654,Hlavní město Praha
+4655,Hlavní město Praha
+4656,Hlavní město Praha
+4657,Hlavní město Praha
+4658,NA
+4659,NA
+4660,NA
+4661,NA
+4662,NA
+4663,NA
+4664,NA
+4665,NA
+4666,NA
+4667,NA
+4668,NA
+4669,NA
+4670,NA
+4671,NA
+4672,NA
+4673,NA
+4674,NA
+4675,NA
+4676,NA
+4677,NA
+4678,NA
+4679,NA
+4680,NA
+4681,NA
+4682,NA
+4683,NA
+4684,NA
+4685,Plzeň-město
+4686,Plzeň-město
+4687,Plzeň-město
+4688,Plzeň-město
+4689,Plzeň-město
+4690,Plzeň-město
+4691,Plzeň-město
+4692,Plzeň-město
+4693,Plzeň-město
+4694,Plzeň-město
+4695,Plzeň-město
+4696,Plzeň-město
+4697,Plzeň-město
+4698,Plzeň-město
+4699,Plzeň-město
+4700,Plzeň-město
+4701,Plzeň-město
+4702,Brno-město
+4703,Brno-město
+4704,Brno-město
+4705,Brno-město
+4706,NA
+4707,NA
+4708,"Blansko
+ Benešov"
+4709,"Blansko
+ Benešov"
+4710,"Blansko
+ Benešov"
+4711,Nový Jičín
+4712,Nový Jičín
+4713,Třebíč
+4714,Litoměřice
+4715,NA
+4716,Jičín
+4717,Jičín
+4718,NA
+4719,NA
+4720,"Brno-venkov
+      Beroun"
+4721,"Brno-venkov
+      Beroun"
+4722,"Brno-venkov
+      Beroun"
+4723,NA
+4724,NA
+4725,Znojmo
+4726,Znojmo
+4727,Chomutov
+4728,Chomutov
+4729,Chomutov
+4730,Chomutov
+4731,Chomutov
+4732,Chomutov
+4733,Chomutov
+4734,Chomutov
+4735,Chomutov
+4736,"Brno-venkov
+ Praha-východ"
+4737,"Brno-venkov
+ Praha-východ"
+4738,České Budějovice
+4739,České Budějovice
+4740,České Budějovice
+4741,České Budějovice
+4742,České Budějovice
+4743,Pardubice
+4744,Pardubice
+4745,Pardubice
+4746,Pardubice
+4747,Pardubice
+4748,Pardubice
+4749,Pardubice
+4750,Pardubice
+4751,Frýdek-Místek
+4752,Frýdek-Místek
+4753,Frýdek-Místek
+4754,Frýdek-Místek
+4755,Frýdek-Místek
+4756,Frýdek-Místek
+4757,Frýdek-Místek
+4758,Frýdek-Místek
+4759,Frýdek-Místek
+4760,Frýdek-Místek
+4761,Cheb
+4762,Hlavní město Praha
+4763,Hlavní město Praha
+4764,Hlavní město Praha
+4765,Hlavní město Praha
+4766,Hlavní město Praha
+4767,Hlavní město Praha
+4768,Hlavní město Praha
+4769,Hlavní město Praha
+4770,Hlavní město Praha
+4771,Hlavní město Praha
+4772,Hlavní město Praha
+4773,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+4774,NA
+4775,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+4776,Sokolov
+4777,Sokolov
+4778,Sokolov
+4779,Sokolov
+4780,"Blansko
+ Benešov"
+4781,"Blansko
+ Benešov"
+4782,"Blansko
+ Benešov"
+4783,"Blansko
+ Benešov"
+4784,"Blansko
+ Benešov"
+4785,Hlavní město Praha
+4786,NA
+4787,Hlavní město Praha
+4788,Hlavní město Praha
+4789,Hlavní město Praha
+4790,Karlovy Vary
+4791,Hlavní město Praha
+4792,Hlavní město Praha
+4793,Hlavní město Praha
+4794,Jičín
+4795,Kladno
+4796,"České Budějovice
+      Brno-venkov"
+4797,"České Budějovice
+      Brno-venkov"
+4798,"České Budějovice
+      Brno-venkov"
+4799,"České Budějovice
+      Brno-venkov"
+4800,"České Budějovice
+      Brno-venkov"
+4801,"České Budějovice
+      Brno-venkov"
+4802,"České Budějovice
+      Brno-venkov"
+4803,"České Budějovice
+      Brno-venkov"
+4804,"České Budějovice
+      Brno-venkov"
+4805,"České Budějovice
+      Brno-venkov"
+4806,"České Budějovice
+      Brno-venkov"
+4807,"České Budějovice
+      Brno-venkov"
+4808,"České Budějovice
+      Brno-venkov"
+4809,"České Budějovice
+      Brno-venkov"
+4810,Blansko
+4811,"České Budějovice
+      Brno-venkov"
+4812,Blansko
+4813,Blansko
+4814,Blansko
+4815,Blansko
+4816,Blansko
+4817,Brno-město
+4818,Brno-město
+4819,Brno-město
+4820,Brno-město
+4821,Brno-město
+4822,NA
+4823,NA
+4824,NA
+4825,NA
+4826,NA
+4827,NA
+4828,Náchod
+4829,Náchod
+4830,Náchod
+4831,Náchod
+4832,Náchod
+4833,Náchod
+4834,Strakonice
+4835,Strakonice
+4836,Strakonice
+4837,Strakonice
+4838,Strakonice
+4839,Strakonice
+4840,Strakonice
+4841,NA
+4842,NA
+4843,NA
+4844,NA
+4845,NA
+4846,NA
+4847,Svitavy
+4848,České Budějovice
+4849,Kladno
+4850,Karlovy Vary
+4851,Karlovy Vary
+4852,Karlovy Vary
+4853,Karlovy Vary
+4854,Karlovy Vary
+4855,Karlovy Vary
+4856,Karlovy Vary
+4857,Karlovy Vary
+4858,Karlovy Vary
+4859,Karlovy Vary
+4860,Karlovy Vary
+4861,Karlovy Vary
+4862,Karlovy Vary
+4863,NA
+4864,NA
+4865,NA
+4866,NA
+4867,NA
+4868,NA
+4869,NA
+4870,NA
+4871,NA
+4872,NA
+4873,NA
+4874,NA
+4875,NA
+4876,NA
+4877,NA
+4878,NA
+4879,NA
+4880,NA
+4881,NA
+4882,NA
+4883,NA
+4884,NA
+4885,NA
+4886,NA
+4887,NA
+4888,NA
+4889,NA
+4890,NA
+4891,NA
+4892,Karviná
+4893,Svitavy
+4894,Ústí nad Orlicí
+4895,Ústí nad Orlicí
+4896,Ústí nad Orlicí
+4897,Ústí nad Orlicí
+4898,Ústí nad Orlicí
+4899,Ústí nad Orlicí
+4900,Česká Lípa
+4901,Česká Lípa
+4902,Bruntál
+4903,Česká Lípa
+4904,Bruntál
+4905,Česká Lípa
+4906,Znojmo
+4907,Znojmo
+4908,Znojmo
+4909,Plzeň-jih
+4910,Plzeň-jih
+4911,NA
+4912,NA
+4913,NA
+4914,NA
+4915,NA
+4916,NA
+4917,Hradec Králové
+4918,Hradec Králové
+4919,Hradec Králové
+4920,České Budějovice
+4921,NA
+4922,NA
+4923,NA
+4924,NA
+4925,NA
+4926,NA
+4927,NA
+4928,NA
+4929,NA
+4930,NA
+4931,NA
+4932,NA
+4933,NA
+4934,Hlavní město Praha
+4935,NA
+4936,NA
+4937,NA
+4938,NA
+4939,NA
+4940,NA
+4941,Písek
+4942,Písek
+4943,NA
+4944,NA
+4945,NA
+4946,NA
+4947,NA
+4948,NA
+4949,NA
+4950,NA
+4951,Plzeň-město
+4952,Plzeň-město
+4953,Karlovy Vary
+4954,Karlovy Vary
+4955,Karlovy Vary
+4956,Karlovy Vary
+4957,Karlovy Vary
+4958,Karlovy Vary
+4959,Karlovy Vary
+4960,Hlavní město Praha
+4961,Liberec
+4962,"Jindřichův Hradec
+        Česká Lípa"
+4963,"Jindřichův Hradec
+        Česká Lípa"
+4964,"Jindřichův Hradec
+        Česká Lípa"
+4965,Hlavní město Praha
+4966,Hlavní město Praha
+4967,Hlavní město Praha
+4968,Hlavní město Praha
+4969,Hlavní město Praha
+4970,Hlavní město Praha
+4971,Hlavní město Praha
+4972,Hlavní město Praha
+4973,Pelhřimov
+4974,Pelhřimov
+4975,Hlavní město Praha
+4976,Brno-město
+4977,NA
+4978,NA
+4979,NA
+4980,NA
+4981,NA
+4982,České Budějovice
+4983,České Budějovice
+4984,České Budějovice
+4985,Hlavní město Praha
+4986,Plzeň-město
+4987,Plzeň-město
+4988,Plzeň-město
+4989,Plzeň-město
+4990,Plzeň-město
+4991,Plzeň-město
+4992,Plzeň-město
+4993,Hlavní město Praha
+4994,Svitavy
+4995,NA
+4996,NA
+4997,NA
+4998,"Domažlice
+ Jindřichův Hradec"
+4999,"Domažlice
+ Jindřichův Hradec"
+5000,NA
+5001,NA
+5002,NA
+5003,NA
+5004,NA
+5005,NA
+5006,NA
+5007,NA
+5008,NA
+5009,NA
+5010,NA
+5011,NA
+5012,NA
+5013,NA
+5014,NA
+5015,NA
+5016,NA
+5017,NA
+5018,NA
+5019,NA
+5020,NA
+5021,NA
+5022,NA
+5023,"Teplice
+ Břeclav"
+5024,Mladá Boleslav
+5025,Mladá Boleslav
+5026,Mladá Boleslav
+5027,Náchod
+5028,Náchod
+5029,Louny
+5030,Louny
+5031,Louny
+5032,Louny
+5033,Louny
+5034,Zlín
+5035,"Přerov
+ Chrudim"
+5036,České Budějovice
+5037,České Budějovice
+5038,Frýdek-Místek
+5039,Frýdek-Místek
+5040,Frýdek-Místek
+5041,Frýdek-Místek
+5042,Frýdek-Místek
+5043,Frýdek-Místek
+5044,Frýdek-Místek
+5045,Frýdek-Místek
+5046,Frýdek-Místek
+5047,Frýdek-Místek
+5048,Frýdek-Místek
+5049,Hlavní město Praha
+5050,Hlavní město Praha
+5051,Hlavní město Praha
+5052,Hlavní město Praha
+5053,Hlavní město Praha
+5054,Hlavní město Praha
+5055,Hlavní město Praha
+5056,Hlavní město Praha
+5057,Hlavní město Praha
+5058,Hlavní město Praha
+5059,"Rychnov nad Kněžnou
+          Strakonice"
+5060,"Rychnov nad Kněžnou
+          Strakonice"
+5061,"Rychnov nad Kněžnou
+          Strakonice"
+5062,"Rychnov nad Kněžnou
+          Strakonice"
+5063,"Rychnov nad Kněžnou
+          Strakonice"
+5064,"Rychnov nad Kněžnou
+          Strakonice"
+5065,"Rychnov nad Kněžnou
+          Strakonice"
+5066,Most
+5067,Most
+5068,Most
+5069,Uherské Hradiště
+5070,Náchod
+5071,Náchod
+5072,Náchod
+5073,Náchod
+5074,Náchod
+5075,Náchod
+5076,Náchod
+5077,Náchod
+5078,Náchod
+5079,Náchod
+5080,Náchod
+5081,Náchod
+5082,Náchod
+5083,NA
+5084,NA
+5085,NA
+5086,Žďár nad Sázavou
+5087,Žďár nad Sázavou
+5088,Žďár nad Sázavou
+5089,"Blansko
+ Benešov"
+5090,"Blansko
+ Benešov"
+5091,"Blansko
+ Benešov"
+5092,NA
+5093,NA
+5094,NA
+5095,NA
+5096,NA
+5097,NA
+5098,Cheb
+5099,Cheb
+5100,Cheb
+5101,Cheb
+5102,Cheb
+5103,Cheb
+5104,Hlavní město Praha
+5105,Hlavní město Praha
+5106,Hlavní město Praha
+5107,NA
+5108,NA
+5109,NA
+5110,NA
+5111,NA
+5112,NA
+5113,NA
+5114,Třebíč
+5115,Třebíč
+5116,Rychnov nad Kněžnou
+5117,Rychnov nad Kněžnou
+5118,Rychnov nad Kněžnou
+5119,Cheb
+5120,Cheb
+5121,Cheb
+5122,Cheb
+5123,Cheb
+5124,Cheb
+5125,Cheb
+5126,Cheb
+5127,Cheb
+5128,Kutná Hora
+5129,Kutná Hora
+5130,Kutná Hora
+5131,Kutná Hora
+5132,Kutná Hora
+5133,Kutná Hora
+5134,Kutná Hora
+5135,Kutná Hora
+5136,Kutná Hora
+5137,Kutná Hora
+5138,Kutná Hora
+5139,Kladno
+5140,Kladno
+5141,Kladno
+5142,Kladno
+5143,Chrudim
+5144,Chrudim
+5145,Chrudim
+5146,NA
+5147,NA
+5148,NA
+5149,NA
+5150,NA
+5151,NA
+5152,NA
+5153,NA
+5154,NA
+5155,NA
+5156,Ostrava-město
+5157,Ostrava-město
+5158,Ostrava-město
+5159,Ostrava-město
+5160,Ostrava-město
+5161,Plzeň-město
+5162,Plzeň-město
+5163,Plzeň-město
+5164,Plzeň-město
+5165,Plzeň-město
+5166,Blansko
+5167,Blansko
+5168,Blansko
+5169,Blansko
+5170,Blansko
+5171,Blansko
+5172,Blansko
+5173,Blansko
+5174,České Budějovice
+5175,České Budějovice
+5176,Hlavní město Praha
+5177,Hlavní město Praha
+5178,Hlavní město Praha
+5179,Hlavní město Praha
+5180,Tábor
+5181,Tábor
+5182,Tábor
+5183,Tábor
+5184,Tábor
+5185,Tábor
+5186,Tábor
+5187,Tábor
+5188,Tábor
+5189,Tábor
+5190,Tábor
+5191,Tábor
+5192,Tábor
+5193,Tábor
+5194,Tábor
+5195,Tábor
+5196,Tábor
+5197,Tábor
+5198,Tábor
+5199,Tábor
+5200,Tábor
+5201,Tábor
+5202,Chrudim
+5203,Chrudim
+5204,Chrudim
+5205,Hradec Králové
+5206,Hradec Králové
+5207,Hlavní město Praha
+5208,Hlavní město Praha
+5209,Hlavní město Praha
+5210,Hlavní město Praha
+5211,Hlavní město Praha
+5212,Hlavní město Praha
+5213,Hlavní město Praha
+5214,Hlavní město Praha
+5215,Hlavní město Praha
+5216,"Chrudim
+  Kladno"
+5217,"Chrudim
+  Kladno"
+5218,"Chrudim
+  Kladno"
+5219,"Chrudim
+  Kladno"
+5220,"Chrudim
+  Kladno"
+5221,Hlavní město Praha
+5222,"České Budějovice
+         Rokycany"
+5223,Brno-město
+5224,Brno-město
+5225,Brno-město
+5226,Mělník
+5227,Mělník
+5228,Hlavní město Praha
+5229,Hlavní město Praha
+5230,Hlavní město Praha
+5231,Hlavní město Praha
+5232,Hlavní město Praha
+5233,Hlavní město Praha
+5234,Hlavní město Praha
+5235,Hlavní město Praha
+5236,Hlavní město Praha
+5237,"Plzeň-jih
+ Pelhřimov"
+5238,Kladno
+5239,Jičín
+5240,Hlavní město Praha
+5241,NA
+5242,Ústí nad Orlicí
+5243,NA
+5244,Hlavní město Praha
+5245,NA
+5246,Pardubice
+5247,Chomutov
+5248,"Jičín
+ Mladá Boleslav"
+5249,Chrudim
+5250,Chrudim
+5251,Chrudim
+5252,Cheb
+5253,Pelhřimov
+5254,NA
+5255,NA
+5256,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+5257,NA
+5258,Ústí nad Orlicí
+5259,NA
+5260,Třebíč
+5261,Třebíč
+5262,České Budějovice
+5263,NA
+5264,Znojmo
+5265,Chomutov
+5266,Pardubice
+5267,Pardubice
+5268,Pardubice
+5269,Pardubice
+5270,Pardubice
+5271,Pardubice
+5272,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+5273,Brno-město
+5274,NA
+5275,NA
+5276,Karviná
+5277,NA
+5278,NA
+5279,Hradec Králové
+5280,Karlovy Vary
+5281,Karlovy Vary
+5282,Karlovy Vary
+5283,Hlavní město Praha
+5284,Pelhřimov
+5285,NA
+5286,"Teplice
+ Břeclav"
+5287,Žďár nad Sázavou
+5288,"Přerov
+ Chrudim"
+5289,Frýdek-Místek
+5290,Frýdek-Místek
+5291,Frýdek-Místek
+5292,Frýdek-Místek
+5293,"Blansko
+ Benešov"
+5294,Třebíč
+5295,Cheb
+5296,Cheb
+5297,NA
+5298,Ostrava-město
+5299,Tábor
+5300,Tábor
+5301,Hlavní město Praha
+5302,NA
+5303,NA
+5304,Hlavní město Praha
+5305,NA
+5306,Ústí nad Orlicí
+5307,Chrudim
+5308,Chrudim
+5309,Frýdek-Místek
+5310,"Plzeň-jih
+ Pelhřimov"
+5311,"Plzeň-jih
+ Pelhřimov"
+5312,"Plzeň-jih
+ Pelhřimov"
+5313,"Plzeň-jih
+ Pelhřimov"
+5314,"Plzeň-jih
+ Pelhřimov"
+5315,Kladno
+5316,Hlavní město Praha
+5317,NA
+5318,NA
+5319,Teplice
+5320,Pelhřimov
+5321,Pelhřimov
+5322,Pelhřimov
+5323,Pelhřimov
+5324,Pelhřimov
+5325,Kutná Hora
+5326,Jihlava
+5327,Jičín
+5328,Jičín
+5329,Hlavní město Praha
+5330,Brno-město
+5331,NA
+5332,NA
+5333,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+5334,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+5335,"Domažlice
+    České Budějovice
+              Mělník
+         Brno-venkov
+             Sokolov
+              Třebíč
+       Český Krumlov
+    Žďár nad Sázavou
+ Rychnov nad Kněžnou
+             Liberec
+        Praha-východ
+           Plzeň-jih
+               Louny
+          Strakonice"
+5336,Ústí nad Orlicí
+5337,Znojmo
+5338,Znojmo
+5339,Znojmo
+5340,Znojmo
+5341,Znojmo
+5342,Znojmo
+5343,Znojmo
+5344,Znojmo
+5345,Znojmo
+5346,Znojmo
+5347,Znojmo
+5348,Znojmo
+5349,Znojmo
+5350,Znojmo
+5351,Znojmo
+5352,Plzeň-město
+5353,Plzeň-město
+5354,Plzeň-město
+5355,NA
+5356,Hradec Králové
+5357,Plzeň-město
+5358,NA
+5359,Plzeň-město
+5360,Plzeň-město
+5361,Plzeň-město
+5362,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+5363,Brno-venkov
+5364,NA
+5365,Mladá Boleslav
+5366,České Budějovice
+5367,České Budějovice
+5368,České Budějovice
+5369,České Budějovice
+5370,České Budějovice
+5371,České Budějovice
+5372,Chomutov
+5373,Praha-východ
+5374,"Chrudim
+ Hodonín
+ Blansko"
+5375,Cheb
+5376,Cheb
+5377,Hlavní město Praha
+5378,Hlavní město Praha
+5379,Hlavní město Praha
+5380,Hlavní město Praha
+5381,Hlavní město Praha
+5382,Hlavní město Praha
+5383,Hlavní město Praha
+5384,Hlavní město Praha
+5385,NA
+5386,NA
+5387,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+5388,Náchod
+5389,Most
+5390,Most
+5391,NA
+5392,NA
+5393,NA
+5394,NA
+5395,Kladno
+5396,Ústí nad Orlicí
+5397,Semily
+5398,Semily
+5399,Semily
+5400,NA
+5401,Most
+5402,Most
+5403,Hlavní město Praha
+5404,Hlavní město Praha
+5405,NA
+5406,NA
+5407,NA
+5408,NA
+5409,NA
+5410,Plzeň-město
+5411,Plzeň-město
+5412,Plzeň-město
+5413,Plzeň-město
+5414,Brno-město
+5415,Brno-město
+5416,Brno-město
+5417,Brno-město
+5418,Brno-město
+5419,Brno-město
+5420,Brno-město
+5421,NA
+5422,NA
+5423,NA
+5424,NA
+5425,Třebíč
+5426,Litoměřice
+5427,Jičín
+5428,NA
+5429,NA
+5430,NA
+5431,"Brno-venkov
+      Beroun"
+5432,"Brno-venkov
+      Beroun"
+5433,"Brno-venkov
+      Beroun"
+5434,NA
+5435,České Budějovice
+5436,České Budějovice
+5437,Znojmo
+5438,Znojmo
+5439,Znojmo
+5440,Znojmo
+5441,"Brno-venkov
+ Praha-východ"
+5442,České Budějovice
+5443,Pardubice
+5444,Pardubice
+5445,Frýdek-Místek
+5446,Frýdek-Místek
+5447,Frýdek-Místek
+5448,Frýdek-Místek
+5449,NA
+5450,Sokolov
+5451,Sokolov
+5452,"Blansko
+ Benešov"
+5453,"Blansko
+ Benešov"
+5454,"Blansko
+ Benešov"
+5455,Hlavní město Praha
+5456,Hlavní město Praha
+5457,Hlavní město Praha
+5458,Hlavní město Praha
+5459,Hlavní město Praha
+5460,Hlavní město Praha
+5461,Hlavní město Praha
+5462,Hlavní město Praha
+5463,Jičín
+5464,Kladno
+5465,"České Budějovice
+      Brno-venkov"
+5466,"České Budějovice
+      Brno-venkov"
+5467,"České Budějovice
+      Brno-venkov"
+5468,"České Budějovice
+      Brno-venkov"
+5469,Brno-město
+5470,Brno-město
+5471,Brno-město
+5472,NA
+5473,Náchod
+5474,Náchod
+5475,Náchod
+5476,Náchod
+5477,Náchod
+5478,NA
+5479,Strakonice
+5480,Strakonice
+5481,Strakonice
+5482,Svitavy
+5483,Svitavy
+5484,Sokolov
+5485,Karlovy Vary
+5486,Karlovy Vary
+5487,NA
+5488,NA
+5489,Karviná
+5490,Karviná
+5491,Ústí nad Orlicí
+5492,Ústí nad Orlicí
+5493,NA
+5494,NA
+5495,Frýdek-Místek
+5496,Frýdek-Místek
+5497,Hradec Králové
+5498,České Budějovice
+5499,České Budějovice
+5500,České Budějovice
+5501,NA
+5502,NA
+5503,NA
+5504,NA
+5505,NA
+5506,NA
+5507,NA
+5508,NA
+5509,Karlovy Vary
+5510,Hlavní město Praha
+5511,"Hodonín
+ Praha-západ
+     Blansko"
+5512,Liberec
+5513,"Jindřichův Hradec
+        Česká Lípa"
+5514,"Jindřichův Hradec
+        Česká Lípa"
+5515,"Jindřichův Hradec
+        Česká Lípa"
+5516,Pelhřimov
+5517,Brno-město
+5518,Brno-město
+5519,NA
+5520,NA
+5521,NA
+5522,Hlavní město Praha
+5523,Hlavní město Praha
+5524,Plzeň-město
+5525,Hlavní město Praha
+5526,NA
+5527,NA
+5528,NA
+5529,NA
+5530,"Domažlice
+ Jindřichův Hradec"
+5531,"Teplice
+ Břeclav"
+5532,Žďár nad Sázavou
+5533,Žďár nad Sázavou
+5534,Louny
+5535,Louny
+5536,Zlín
+5537,Rakovník
+5538,Frýdek-Místek
+5539,Hlavní město Praha
+5540,Most
+5541,Náchod
+5542,Žďár nad Sázavou
+5543,Žďár nad Sázavou
+5544,"Blansko
+ Benešov"
+5545,"Blansko
+ Benešov"
+5546,"Blansko
+ Benešov"
+5547,"Blansko
+ Benešov"
+5548,"Blansko
+ Benešov"
+5549,"Blansko
+ Benešov"
+5550,"Blansko
+ Benešov"
+5551,"Blansko
+ Benešov"
+5552,Cheb
+5553,Cheb
+5554,Třebíč
+5555,Rychnov nad Kněžnou
+5556,Chrudim
+5557,NA
+5558,Karlovy Vary
+5559,Plzeň-město
+5560,"Svitavy
+          Bruntál
+    Frýdek-Místek
+          Šumperk
+ Uherské Hradiště"
+5561,Hlavní město Praha
+5562,Hlavní město Praha
+5563,České Budějovice
+5564,Tábor
+5565,Tábor
+5566,Tábor
+5567,Tábor
+5568,Tábor
+5569,Tábor
+5570,Tábor
+5571,Hlavní město Praha
+5572,Hlavní město Praha
+5573,"Chrudim
+  Kladno"
+5574,Brno-město
+5575,Mělník
+5576,Mělník
+5577,Mělník
+5578,Hlavní město Praha
+5579,Hlavní město Praha
+5580,Hlavní město Praha
+5581,Chrudim
+5582,Chrudim
+5583,Chrudim
+5584,Chrudim
+5585,Chrudim
+5586,Chrudim
+5587,Chrudim
+5588,Chrudim
+5589,Chrudim
+5590,NA
+5591,NA
+5592,Opava
+5593,Ústí nad Orlicí
+5594,Ústí nad Orlicí
+5595,Frýdek-Místek
+5596,Frýdek-Místek
+5597,"Plzeň-jih
+ Pelhřimov"
+5598,"Plzeň-jih
+ Pelhřimov"
+5599,"Plzeň-jih
+ Pelhřimov"
+5600,"Plzeň-jih
+ Pelhřimov"
+5601,NA
+5602,NA
+5603,NA
+5604,Kladno
+5605,NA
+5606,Teplice
+5607,Pelhřimov
+5608,Kutná Hora
+5609,Pelhřimov
+5610,Kutná Hora
+5611,Kutná Hora
+5612,"Jičín
+ Mladá Boleslav"
+5613,Pelhřimov
+5614,Ústí nad Orlicí
+5615,Plzeň-město
+5616,Hradec Králové
+5617,Hradec Králové
+5618,Hradec Králové
+5619,Hradec Králové
+5620,Hradec Králové
+5621,Hradec Králové
+5622,Nymburk
+5623,Nymburk
+5624,Nymburk
+5625,Nymburk
+5626,NA
+5627,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+5628,Mladá Boleslav
+5629,České Budějovice
+5630,Chrudim
+5631,Cheb
+5632,Hlavní město Praha
+5633,Hlavní město Praha
+5634,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+5635,Most
+5636,NA
+5637,Hlavní město Praha
+5638,NA
+5639,NA
+5640,NA
+5641,Brno-město
+5642,Brno-město
+5643,Brno-město
+5644,Brno-město
+5645,Znojmo
+5646,NA
+5647,NA
+5648,NA
+5649,"Žďár nad Sázavou
+       Litoměřice
+          Příbram
+       Kutná Hora"
+5650,Karviná
+5651,Písek
+5652,Brno-město
+5653,Brno-město
+5654,Náchod
+5655,Náchod
+5656,NA
+5657,NA
+5658,Karviná
+5659,Plzeň-jih
+5660,Hradec Králové
+5661,Hradec Králové
+5662,NA
+5663,NA
+5664,Karlovy Vary
+5665,Karlovy Vary
+5666,Liberec
+5667,"Jindřichův Hradec
+        Česká Lípa"
+5668,Hlavní město Praha
+5669,NA
+5670,NA
+5671,České Budějovice
+5672,Hlavní město Praha
+5673,Plzeň-město
+5674,Plzeň-město
+5675,Plzeň-město
+5676,Mladá Boleslav
+5677,NA
+5678,Louny
+5679,Louny
+5680,Zlín
+5681,Zlín
+5682,Zlín
+5683,Rakovník
+5684,Rakovník
+5685,Rakovník
+5686,"Přerov
+ Chrudim"
+5687,Frýdek-Místek
+5688,Hlavní město Praha
+5689,Hlavní město Praha
+5690,Most
+5691,Most
+5692,NA
+5693,NA
+5694,NA
+5695,NA
+5696,NA
+5697,Žďár nad Sázavou
+5698,Žďár nad Sázavou
+5699,"Blansko
+ Benešov"
+5700,"Blansko
+ Benešov"
+5701,"Blansko
+ Benešov"
+5702,NA
+5703,Cheb
+5704,Cheb
+5705,Hlavní město Praha
+5706,Hlavní město Praha
+5707,Třebíč
+5708,Třebíč
+5709,Třebíč
+5710,Cheb
+5711,Cheb
+5712,Cheb
+5713,Cheb
+5714,Cheb
+5715,Cheb
+5716,Chrudim
+5717,NA
+5718,Plzeň-město
+5719,Plzeň-město
+5720,Plzeň-město
+5721,Plzeň-město
+5722,Blansko
+5723,Blansko
+5724,České Budějovice
+5725,České Budějovice
+5726,Hlavní město Praha
+5727,Tábor
+5728,Tábor
+5729,Tábor
+5730,Tábor
+5731,Tábor
+5732,Tábor
+5733,Tábor
+5734,Tábor
+5735,Tábor
+5736,Tábor
+5737,Tábor
+5738,Tábor
+5739,Tábor
+5740,Tábor
+5741,Tábor
+5742,Tábor
+5743,Chrudim
+5744,Hlavní město Praha
+5745,"Chrudim
+  Kladno"
+5746,"Chrudim
+  Kladno"
+5747,"Chrudim
+  Kladno"
+5748,"Chrudim
+  Kladno"
+5749,"Chrudim
+  Kladno"
+5750,"České Budějovice
+         Rokycany"
+5751,Brno-město
+5752,Brno-město
+5753,Brno-město
+5754,Most
+5755,Mělník
+5756,NA
+5757,Chrudim
+5758,Chrudim
+5759,"Plzeň-jih
+ Pelhřimov"
+5760,NA
+5761,Kladno
+5762,Kladno
+5763,Hlavní město Praha
+5764,NA
+5765,NA
+5766,Pelhřimov
+5767,Jičín
+5768,Ústí nad Orlicí
+5769,Plzeň-město
+5770,Plzeň-město
+5771,Plzeň-město
+5772,Plzeň-město
+5773,Plzeň-město
+5774,NA
+5775,NA
+5776,NA
+5777,NA
+5778,Nymburk
+5779,Nymburk
+5780,Plzeň-město
+5781,Svitavy
+5782,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+5783,"Havlíčkův Brod
+         Benešov
+ Ústí nad Orlicí
+         Příbram
+         Chrudim
+    Karlovy Vary"
+5784,Pardubice
+5785,"Chrudim
+ Hodonín
+ Blansko"
+5786,NA
+5787,Mladá Boleslav
+5788,Hradec Králové
+5789,Hradec Králové
+5790,Hradec Králové
+5791,Cheb
+5792,Cheb
+5793,Cheb
+5794,Chomutov
+5795,Chomutov
+5796,Chomutov
+5797,Chomutov
+5798,Chomutov
+5799,Chomutov
+5800,"Jičín
+ Mladá Boleslav"
+5801,"Chrudim
+ Hodonín
+ Blansko"
+5802,Chrudim
+5803,Chrudim
+5804,Chrudim
+5805,Chrudim
+5806,Hlavní město Praha
+5807,Hlavní město Praha
+5808,Hlavní město Praha
+5809,Hlavní město Praha
+5810,Hlavní město Praha
+5811,Hlavní město Praha
+5812,Hlavní město Praha
+5813,NA
+5814,NA
+5815,NA
+5816,NA
+5817,NA
+5818,NA
+5819,NA
+5820,NA
+5821,NA
+5822,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+5823,"Chrudim
+       Plzeň-jih
+ Ústí nad Orlicí"
+5824,Náchod
+5825,Náchod
+5826,Náchod
+5827,Náchod
+5828,Náchod
+5829,Most
+5830,Most
+5831,Most
+5832,NA
+5833,NA
+5834,NA
+5835,NA
+5836,NA
+5837,NA
+5838,NA
+5839,"Kladno
+   Pardubice
+ Plzeň-sever
+     Olomouc
+      Náchod
+     Klatovy"
+5840,Kladno
+5841,Ústí nad Orlicí
+5842,Ústí nad Orlicí
+5843,Semily
+5844,NA
+5845,NA
+5846,Most
+5847,Chomutov
+5848,NA
+5849,NA
+5850,NA
+5851,NA
+5852,NA
+5853,NA
+5854,NA
+5855,NA
+5856,Plzeň-město
+5857,NA
+5858,Plzeň-město
+5859,Brno-město
+5860,NA
+5861,NA
+5862,Nový Jičín
+5863,Nový Jičín
+5864,Třebíč
+5865,NA
+5866,NA
+5867,NA
+5868,České Budějovice
+5869,Chomutov
+5870,České Budějovice
+5871,České Budějovice
+5872,České Budějovice
+5873,České Budějovice
+5874,Hlavní město Praha
+5875,Hlavní město Praha
+5876,Hlavní město Praha
+5877,Hlavní město Praha
+5878,Hlavní město Praha
+5879,Sokolov
+5880,"Blansko
+ Benešov"
+5881,"Blansko
+ Benešov"
+5882,Karviná
+5883,Hlavní město Praha
+5884,Hlavní město Praha
+5885,Hlavní město Praha
+5886,Hlavní město Praha
+5887,Hlavní město Praha
+5888,Jičín
+5889,Kladno
+5890,Brno-město
+5891,Brno-město
+5892,Brno-město
+5893,Brno-město
+5894,Brno-město
+5895,Brno-město
+5896,Brno-město
+5897,Brno-město
+5898,Brno-město
+5899,NA
+5900,NA
+5901,NA
+5902,NA
+5903,NA
+5904,Náchod
+5905,Náchod
+5906,Náchod
+5907,Náchod
+5908,Náchod
+5909,NA
+5910,Strakonice
+5911,NA
+5912,NA
+5913,Kladno
+5914,Karlovy Vary
+5915,NA
+5916,NA
+5917,NA
+5918,NA
+5919,Karviná
+5920,Karviná
+5921,Karviná
+5922,Svitavy
+5923,Svitavy
+5924,Ústí nad Orlicí
+5925,Ústí nad Orlicí
+5926,Ústí nad Orlicí
+5927,Znojmo
+5928,Ostrava-město
+5929,NA
+5930,NA
+5931,NA
+5932,České Budějovice
+5933,NA
+5934,NA
+5935,NA
+5936,NA
+5937,NA
+5938,NA
+5939,NA
+5940,Karlovy Vary
+5941,Karlovy Vary
+5942,Karlovy Vary
+5943,Karlovy Vary
+5944,Karlovy Vary
+5945,Karlovy Vary
+5946,Hlavní město Praha
+5947,Hlavní město Praha
+5948,Hlavní město Praha
+5949,Hlavní město Praha
+5950,Hlavní město Praha
+5951,Brno-město
+5952,NA
+5953,NA
+5954,České Budějovice
+5955,Hlavní město Praha
+5956,Plzeň-město
+5957,Plzeň-město
+5958,Plzeň-město
+5959,Plzeň-město
+5960,Hlavní město Praha
+5961,NA
+5962,Žďár nad Sázavou
+5963,Žďár nad Sázavou
+5964,Žďár nad Sázavou
+5965,Žďár nad Sázavou
+5966,Louny
+5967,Louny
+5968,Louny
+5969,Zlín
+5970,"Přerov
+ Chrudim"
+5971,Frýdek-Místek
+5972,Frýdek-Místek
+5973,Frýdek-Místek
+5974,Hlavní město Praha
+5975,Hlavní město Praha
+5976,Hlavní město Praha
+5977,Hlavní město Praha
+5978,"Rychnov nad Kněžnou
+          Strakonice"
+5979,"Rychnov nad Kněžnou
+          Strakonice"
+5980,Most
+5981,Most
+5982,Most
+5983,Most
+5984,Most
+5985,Most
+5986,Náchod
+5987,NA
+5988,Plzeň-město
+5989,Plzeň-město
+5990,Plzeň-město
+5991,"Blansko
+ Benešov"
+5992,"Blansko
+ Benešov"
+5993,"Blansko
+ Benešov"
+5994,"Blansko
+ Benešov"
+5995,"Blansko
+ Benešov"
+5996,Hlavní město Praha
+5997,Hlavní město Praha
+5998,Hlavní město Praha
+5999,Brno-město
